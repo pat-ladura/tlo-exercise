@@ -1,0 +1,4621 @@
+{
+  "pagination": {
+    "totalResults": 422,
+    "begin": 1,
+    "end": 32,
+    "currentPage": 1,
+    "totalPages": 14,
+    "previousPage": 0,
+    "nextPage": 2,
+    "perPage": 32,
+    "defaultPerPage": 30
+  },
+  "sorting": {
+    "options": [
+      {
+        "field": "relevance",
+        "direction": "desc",
+        "label": "Most Relevant"
+      },
+      {
+        "field": "mfield_custom_total_sale",
+        "direction": "desc",
+        "label": "Most Popular"
+      },
+      {
+        "field": "title",
+        "direction": "asc",
+        "label": "Title, A to Z"
+      },
+      {
+        "field": "title",
+        "direction": "desc",
+        "label": "Title, Z to A"
+      },
+      {
+        "field": "ss_price",
+        "direction": "asc",
+        "label": "Price, Low to High"
+      },
+      {
+        "field": "ss_price",
+        "direction": "desc",
+        "label": "Price, High to Low"
+      },
+      {
+        "field": "created_at",
+        "direction": "asc",
+        "label": "Date, Old to New"
+      },
+      {
+        "field": "created_at",
+        "direction": "desc",
+        "label": "Data, New to Old"
+      },
+      {
+        "field": "mfield_okendo_reviewaveragevalue",
+        "direction": "desc",
+        "label": "Reviews"
+      }
+    ]
+  },
+  "resultLayout": "grid",
+  "results": [
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): MORENO PE8: AG, MORENO PE8: AS, MORENO PE8: BK\nProduct Type: Pendant Light\nColour: Antique Gold, Antique Silver, Black\nDiameter: ø860mm\nHeight: 300mm\nShade Diameter: ø180mm\nShade Height: 100mm\nCanopy Diameter: ø120mm\nCanopy Projection: 20mm\nSuspension Type: Rod (1x300mm)+(2x600mm)\nWeight: 10.40kg\nMaterial: Iron, Glass\nWattage (Max): 48w\nBulbs Required: 8\nBulb Base: G9\nBulb Included: No\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "moreno-pendant-light-8lt-in-antique-gold-antique-silver-or-black",
+      "id": "b2e48aa6dab93ce84345cd7ea39240f7",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-moreno-pe8-ag-pendant-light-antique-gold-the-lighting-outlet-5_600x600.jpg?v=1731277199",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoIkZLI8-DJ904g3WxmwTKSJ90dPve_3-smWo8ZCtCnk5MekoTLZYUBlqaLgWrQFJ733devo8my-t4zo_ptuc7tNI5wsYjAwVwfrd_QgAAP__MmMXhg",
+      "intellisuggestSignature": "fb73bb846927f8c77fa7deade50c1f41ac5e625160d1ab5993b8700b2ed4e3f7",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Silver"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "100",
+        "300"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "6"
+      ],
+      "msrp": "1141.95",
+      "name": "Moreno Pendant Light 8Lt in Antique Gold, Antique Silver or Black",
+      "popularity": "5",
+      "price": "970.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "MORENO PE8-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120553939170",
+      "ss_instock_pct": "67",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "15",
+      "ss_sku": "MORENO PE8-AG",
+      "tags": [
+        "1_Image",
+        "3YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Silver",
+        "Cord_Rod",
+        "Diameter_ø180mm",
+        "Diameter_ø860mm",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_100mm",
+        "Height_300mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE8-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE8.pdf?",
+        "Pendant Light",
+        "Size_Oversized",
+        "to_sync_sept",
+        "Wattage_6w",
+        "Weight_10.40kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-moreno-pe8-ag-pendant-light-antique-gold-the-lighting-outlet-5_600x600.jpg?v=1731277199",
+      "uid": "8751573500130",
+      "url": "/products/moreno-pendant-light-8lt-in-antique-gold-antique-silver-or-black",
+      "variant_sku": [
+        "MORENO PE8-AG",
+        "MORENO PE8-AS",
+        "MORENO PE8-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): MORENO PE5: AG, MORENO PE5: AS, MORENO PE5: BK\nProduct Type: Pendant Light\nColour: Antique Gold, Antique Silver, Black\nDiameter: ø660mm\nHeight: 260mm\nShade Diameter: ø180mm\nShade Height: 100mm\nCanopy Diameter: ø130mm\nCanopy Projection: 20mm\nSuspension Type: Rod (1x300mm)+(2x600mm)\nWeight: 6.40kg\nMaterial: Iron, Glass\nWattage (Max): 30w\nBulbs Required: 5\nBulb Base: G9\nBulb Included: No\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "moreno-pendant-light-5lt-in-antique-gold-antique-silver-or-black",
+      "id": "d8d0cb3fdec7a2e281f89d348e5f1f45",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet-3_a4f28ec1-777d-4e62-95be-e6018f0e18c0_600x600.jpg?v=1731277182",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoIkpmEcfhk868QZrY7aJFJG-6On9nt-fbBlqXLI1Ia8HJj0Kky0WVEsLDdeqLSDpta_bSO9H96UPXOb7dJ3TbSp0OoMhyFARrJ_d_wEAAP__MjYXhA",
+      "intellisuggestSignature": "436913cdbb6dd3aaa9b8e8eb5ec9c6248be98633e76ada1ecbdda682d0ee2b6b",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Silver"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "100",
+        "260"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "6"
+      ],
+      "msrp": "759.95",
+      "name": "Moreno Pendant Light 5Lt in Antique Gold, Antique Silver or Black",
+      "popularity": "6",
+      "price": "649.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "MORENO PE5-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120553054434",
+      "ss_instock_pct": "67",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "14",
+      "ss_sku": "MORENO PE5-AG",
+      "tags": [
+        "1_Image",
+        "3YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Silver",
+        "Cord_Rod",
+        "Diameter_ø180mm",
+        "Diameter_ø660mm",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_100mm",
+        "Height_260mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE5-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE5.pdf?",
+        "Pendant Light",
+        "Size_Large",
+        "to_sync_sept",
+        "Wattage_6w",
+        "Weight_6.40kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet-3_a4f28ec1-777d-4e62-95be-e6018f0e18c0_600x600.jpg?v=1731277182",
+      "uid": "8751573434594",
+      "url": "/products/moreno-pendant-light-5lt-in-antique-gold-antique-silver-or-black",
+      "variant_sku": [
+        "MORENO PE5-AG",
+        "MORENO PE5-AS",
+        "MORENO PE5-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Smoked Glass Pendant Lights",
+        "Dining Room Lights",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Kitchen &amp; Island Pendants",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): MORAN PE14: AGOP, MORAN PE14: BKOP, MORAN PE14: BKSM\nProduct Type: Pendant Light\nColour: Antique Gold/Opal Matt, Black/Opal Matt, Black/Smoked\nDiameter: 245mm\nLength: 1500mm\nRod Length: 1x 300mm + 2x 600mm\nCanopy Width: 120mm\nCanopy Length: 650mm\nShade Diameter: 100mm\nMaterial: Metal\nShade Material: Glass\nBulbs Required: 14\nBulb Included: No\nBulb Type: G9\nWattage (max): 14x 6w\nVoltage: 240v\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "moran-pendant-light-14lt-in-antique-gold-opal-black-opal-or-black-smoke",
+      "id": "c5fd19b9af51a461e464e6e03f1e2e66",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet-2_1d368dae-6608-440a-932b-1082c15dc4e1_600x600.jpg?v=1731215085",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoMkyMI8KPolueIO1MdtEikhf9PR-z-9Ptgw1HrNVIS8Dkx6EyRYLKmMNDdeiNSDpta9bT-9H86V1XKf78ZbmMyudLtMMxoAMFcH62f0fAAD__2L1GAY",
+      "intellisuggestSignature": "ae243e980f130903176331f1c98212e00b3f185db78ad74c955883e4d35ae796",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Contemporary",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "msrp": "793",
+      "name": "Moran Pendant Light 14Lt in Antique Gold/Opal, Black/Opal or Black/Smoke",
+      "popularity": "17",
+      "price": "689",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "MORAN PE14-BKOP",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46119583842530",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "13",
+      "ss_sku": "MORAN PE14-BKOP",
+      "tags": [
+        "1_Image",
+        "3YW",
+        "_indoor_lighting_collection",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Rod",
+        "Current Discounts",
+        "current_discount_collection",
+        "current_indoor_discounts",
+        "Diameter_ø245mm",
+        "Discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "hide_href_new",
+        "IP RATING_20",
+        "IP Rating_IP20",
+        "Kitchen Pendant",
+        "Length_1500mm",
+        "Material_Glass",
+        "Material_Metal",
+        "Material_Smoke",
+        "Modern",
+        "mothers-day-discount",
+        "new_sync_april13",
+        "new_sync_sep",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORAN_PE-14.pdf?",
+        "Pendant Light",
+        "Room_Dining",
+        "Room_Kitchen",
+        "Sensor_No",
+        "Shade Material_Glass",
+        "Size_Multiple",
+        "smoke_glass_pendant",
+        "Style_Art Deco",
+        "Style_Modern",
+        "to_sync_sept",
+        "Voltage_240v"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet-2_1d368dae-6608-440a-932b-1082c15dc4e1_600x600.jpg?v=1731215085",
+      "uid": "8751324365026",
+      "url": "/products/moran-pendant-light-14lt-in-antique-gold-opal-black-opal-or-black-smoke",
+      "variant_sku": [
+        "MORAN PE14-BKOP",
+        "MORAN PE14-BKSM",
+        "MORAN PE14-AGOP"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By",
+        "25% Off Sale"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510230, 5510231, 5510232\nProduct Type: Pendant Light\nColour: Black, Gold, White\nLength: 1500mm, 2000mm, 2400mm\nWidth: 20mm, 20mm, 20mm\nHeight: 20mm, 20mm, 20mm\nSuspension Length: 1750mm\nWeight: 1.8kg, 2.3kg, 2.8kg\nWattage (Max): 30w, 48w, 60w\nBulb Type: LED\nBulb Included: Yes\nColour Temperature: 3000k, 4000k, 6000k\nLumens: 2700lm, 3600lm, 4500lm\nDimmable: No\nWarranty: 2 Years",
+      "handle": "beam-linear-led-pendant-light-1500mm-2000mm-2400mm-in-black-gold-or-white",
+      "id": "09d74667fcaa32d9ec3e50b5f166467c",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510230-bk-pendant-light-black-the-lighting-outlet-4_600x600.jpg?v=1731282908",
+      "intellisuggestData": "eJwEwEEOwkAIBdB_lF6ABCgksnXrKTqDtDVmYsxs9PR9r99fD4aFOEdXyrYK2U2FYoui5r2s0pr1gi7vcz_m8nmO3MaEu7CuTPcHBAaGqWL_nnkFAAD__9w4FjE",
+      "intellisuggestSignature": "983ddb9e145b895af15ca819de1c7f5482deb5f32247c342e4a58bce8dae8e6f",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "White"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White",
+        "CCT (Colour Changing)",
+        "4000k Cool White",
+        "6500k Blue Daylight"
+      ],
+      "mfield_filter_height": [
+        "20"
+      ],
+      "mfield_filter_lumens": [
+        "2700"
+      ],
+      "mfield_filter_style": [
+        "Contemporary",
+        "Minimalistic"
+      ],
+      "mfield_filter_wattage": [
+        "30",
+        "48",
+        "60"
+      ],
+      "mfield_filter_width": [
+        "20"
+      ],
+      "msrp": "437.49",
+      "name": "Beam Linear LED Pendant Light 1500mm, 2000mm, 2400mm in Black, Gold or White",
+      "popularity": "12",
+      "price": "283.49",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510230-BK",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120656830690",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "35",
+      "ss_sku": "5510230-BK",
+      "tags": [
+        "2YW",
+        "CCT",
+        "Colour Temperature_3000k",
+        "Colour Temperature_4000k",
+        "Colour Temperature_6000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_White",
+        "Cord Length_1750mm",
+        "Current Discounts",
+        "Dimmable_No",
+        "discount",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_20mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Length_1500mm",
+        "Length_2000mm",
+        "Length_2400mm",
+        "Lumens_2700lm",
+        "Lumens_3600lm",
+        "Lumens_4500lm",
+        "Pendant Light",
+        "Range_2601-2700lm",
+        "Range_3501-3600lm",
+        "Range_4401-4500lm",
+        "Size_Linear",
+        "to_sync_sept",
+        "Wattage_30w",
+        "Wattage_48w",
+        "Wattage_60w",
+        "Weight_1.8kg",
+        "Weight_2.3kg",
+        "Weight_2.8kg",
+        "Width_20mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510230-bk-pendant-light-black-the-lighting-outlet-4_600x600.jpg?v=1731282908",
+      "uid": "8751603974370",
+      "url": "/products/beam-linear-led-pendant-light-1500mm-2000mm-2400mm-in-black-gold-or-white",
+      "variant_sku": [
+        "5510230-BK",
+        "5510230-GD",
+        "5510230-WH",
+        "5510231-BK",
+        "5510231-GD",
+        "5510231-WH",
+        "5510232-BK",
+        "5510232-GD",
+        "5510232-WH"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): MORENO PE3: AG, MORENO PE3: AS, MORENO PE3: BK\nProduct Type: Pendant Light\nColour: Antique Gold, Antique Silver, Black\nDiameter: ø460mm\nHeight: 230mm\nShade Diameter: ø180mm\nShade Height: 100mm\nCanopy Diameter: ø130mm\nCanopy Projection: 20mm\nSuspension Type: Rod (1x300mm)+(2x600mm)\nWeight: 3.80kg\nMaterial: Iron, Glass\nWattage (Max): 18w\nBulbs Required: 3\nBulb Base: G9\nBulb Included: No\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "moreno-pendant-light-3lt-in-antique-gold-antique-silver-or-black",
+      "id": "14c5edcc6a0af003484c9cfe4becb749",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-moreno-pe3-ag-pendant-light-antique-gold-the-lighting-outlet-4_600x600.jpg?v=1731277163",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoMlSMI8-DJ904g3WxmwTGSJ90dPve_3-smaoccnWhLwOTHoSJpstqJYWGq5VW0DSe1vWnj7P3ee94zo9xtuU7uNA5wsYBRkqguW7-REAAP__MjQXhQ",
+      "intellisuggestSignature": "bf50bb7d130b2d6fb407e3872f42451b3e657be4eb556428aa6a7e0562918493",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Silver"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "100",
+        "230"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "6"
+      ],
+      "msrp": "486.95",
+      "name": "Moreno Pendant Light 3Lt in Antique Gold, Antique Silver or Black",
+      "popularity": "3",
+      "price": "415.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "MORENO PE3-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120552923362",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "15",
+      "ss_sku": "MORENO PE3-AG",
+      "tags": [
+        "1_Image",
+        "3YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Silver",
+        "Cord_Rod",
+        "Diameter_ø180mm",
+        "Diameter_ø460mm",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_100mm",
+        "Height_230mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE3-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_MORENO_PE3.pdf?",
+        "Pendant Light",
+        "Size_Large",
+        "to_sync_sept",
+        "Wattage_6w",
+        "Weight_3.80kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-moreno-pe3-ag-pendant-light-antique-gold-the-lighting-outlet-4_600x600.jpg?v=1731277163",
+      "uid": "8751573336290",
+      "url": "/products/moreno-pendant-light-3lt-in-antique-gold-antique-silver-or-black",
+      "variant_sku": [
+        "MORENO PE3-AG",
+        "MORENO PE3-AS",
+        "MORENO PE3-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): MARSTEN PE12-AGO, MARSTEN PE12-BKO\nProduct Type: Pendant Light\nColour: Antique Gold, Black\nGlass Colour: Opal Matt\nDiameter: ø1050mm\nHeight: 185mm\nCanopy Diameter: ø120mm\nCanopy Projection: 25mm\nSuspension Length: 1500mm Rod (1x300)+(2x600)\nWeight: 7.50kg\nMaterial: Iron, Glass\nWattage: 300w (12x 25w)\nGlobe(s) Required: 12\nGlobe Base: E27 - Fancy Round\nGlobe Included: No\nDimmable: Globe Dependent\nIP Rating: IP20 \nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "marsten-pendant-light-12lt-in-antique-gold-or-black",
+      "id": "14fd75e68ee76954de6e1b42fcb495c5",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Marsten-Pendant-Light-12Lt-in-Antique-Gold-or-Black-MARSTEN-PE12_600x600.jpg?v=1749619106",
+      "intellisuggestData": "eJzKqqwyyjBgMLE0NDWwTDbSTUkyNtQ1sTAy1LVMtEzTTTJNTjNJSzFJMklOYzBSyMlMzyhRKEjNS0nMK2HwdQwKDnH1UwhwNTTSdXT3ZzBkMGMwYDAxMmJIL8pMAQQAAP__fc8YTw",
+      "intellisuggestSignature": "bb630fc6ee2ecf093de2d8c88f6e727ec58d82c4db8732fccc926eee212d6247",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "White"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_height": [
+        "185"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "300"
+      ],
+      "mfield_filter_width": [
+        "1050"
+      ],
+      "name": "Marsten Pendant Light 12Lt in Antique Gold or Black",
+      "price": "839.99",
+      "product_type_unigram": "light",
+      "sku": "MARSTEN PE12-AGO",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46621304553698",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "MARSTEN PE12-AGO",
+      "tags": [
+        "3YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Opal",
+        "Colour_White",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Diameter_ø1050mm",
+        "Dimmable_Yes",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "Height_185mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_MARSTEN_PE12-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_MARSTEN_PE12.pdf?",
+        "Pendant Light",
+        "Size_Oversized",
+        "Voltage_240v",
+        "Weight_7.50kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Marsten-Pendant-Light-12Lt-in-Antique-Gold-or-Black-MARSTEN-PE12_600x600.jpg?v=1749619106",
+      "uid": "8904698200290",
+      "url": "/products/marsten-pendant-light-12lt-in-antique-gold-or-black",
+      "variant_sku": [
+        "MARSTEN PE12-AGO",
+        "MARSTEN PE12-BKO"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): PINTA PE08-BK, PINTA PE08-GD\nProduct Type: Pendant Light\nColour: Black, Gold\nLength: 820mm\nWidth: 820mm\nHeight: 250mm\nWeight: 3.80kg\nCanopy Diameter: ø150mm\nCanopy Projection: 35mm\nSuspension Length: 1500mm Rod (1x300)+(2x600)\nMaterial: Iron,Acrylic\nWattage: 8x 3w\nGlobe(s) Required: 8\nGlobe Type: LED\nGlobe Included: Yes\nDimmable: No\nColour Temperature: 3000k\nLumens: 965lm\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "pinta-led-pendant-light-8lt-in-black-or-gold",
+      "id": "1f40fc39ab20c0374e07d528a97e6f91",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Pinta-LED-Pendant-Light-8Lt-in-Black-or-Gold-PINTA-PE08_600x600.jpg?v=1748674057",
+      "intellisuggestData": "eJzKqqwyyjBgMLE0NDWwTDbSTUkyNtQ1sTAy1LVMtEzTTTJNTjNJSzFJMklOYzBSyMlMzyhRKEjNS0nMK2EI8PQLcVQIcDWw0HXyZjBkMGcwYDAxMmJIL8pMAQQAAP__L-EXbQ",
+      "intellisuggestSignature": "ce19e720439b474f8cf3ecbb9543e86b3b745c4302e51dab407f0c16a4bbe5f2",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White"
+      ],
+      "mfield_filter_globe_base": [
+        "Integrated LED"
+      ],
+      "mfield_filter_height": [
+        "250"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "965"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Acrylic"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "24"
+      ],
+      "mfield_filter_width": [
+        "820"
+      ],
+      "name": "Pinta LED Pendant Light 8Lt in Black or Gold",
+      "price": "549.99",
+      "product_type_unigram": "light",
+      "sku": "PINTA PE08-BK",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46601000452322",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "PINTA PE08-BK",
+      "tags": [
+        "3YW",
+        "Colour Temperature_3000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Dimmable_No",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_250mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PINTA_PE08-INS.pdf?",
+        "IP Rating_IP20",
+        "LED_Yes",
+        "Length_820mm",
+        "Lumens_965lm",
+        "Material_Acrylic",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PINTA_PE08.pdf?",
+        "Pendant Light",
+        "Range_901-1000lm",
+        "Size_Oversized",
+        "Voltage_240v",
+        "Weight_3.80kg",
+        "Width_820mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Pinta-LED-Pendant-Light-8Lt-in-Black-or-Gold-PINTA-PE08_600x600.jpg?v=1748674057",
+      "uid": "8900337565922",
+      "url": "/products/pinta-led-pendant-light-8lt-in-black-or-gold",
+      "variant_sku": [
+        "PINTA PE08-BK",
+        "PINTA PE08-GD"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): PINTA PE10-BK, PINTA PE10-GD\nProduct Type: Pendant Light\nColour: Black, Gold\nLength: 1000mm\nWidth: 1000mm\nHeight: 300mm\nWeight: 3.80kg\nCanopy Diameter: ø150mm\nCanopy Projection: 35mm\nSuspension Length: 1500mm Rod (1x300)+(2x600)\nMaterial: Iron,Acrylic\nWattage: 10x 3w\nGlobe(s) Required: 10\nGlobe Type: LED\nGlobe Included: Yes\nDimmable: No\nColour Temperature: 3000k\nLumens: 1164lm\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "pinta-led-pendant-light-10lt-in-black-or-gold",
+      "id": "fde0eff6a3f656effb9d4ef14eb29116",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Pinta-LED-Pendant-Light-10Lt-in-Black-or-Gold-PINTA-PE10_600x600.jpg?v=1748662187",
+      "intellisuggestData": "eJzKqqwyyjBgMLE0NDWwTDbSTUkyNtQ1sTAy1LVMtEzTTTJNTjNJSzFJMklOYzBSyMlMzyhRKEjNS0nMK2EI8PQLcVQIcDU00HXyZjBksGAwYDAxMmJIL8pMAQQAAP__L2kXZw",
+      "intellisuggestSignature": "225673f0fc1f039b53c712cdb5ca757b1f30b419d6896a2ae44631d666c1acc7",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White"
+      ],
+      "mfield_filter_globe_base": [
+        "Integrated LED"
+      ],
+      "mfield_filter_height": [
+        "300"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "1164"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Acrylic"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "30"
+      ],
+      "mfield_filter_width": [
+        "1000"
+      ],
+      "name": "Pinta LED Pendant Light 10Lt in Black or Gold",
+      "price": "769.99",
+      "product_type_unigram": "light",
+      "sku": "PINTA PE10-BK",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46600809873634",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "PINTA PE10-BK",
+      "tags": [
+        "3YW",
+        "Colour Temperature_3000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Dimmable_No",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_300mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PINTA_PE10-INS.pdf?",
+        "IP Rating_IP20",
+        "LED_Yes",
+        "Length_1000mm",
+        "Lumens_1164lm",
+        "Material_Acrylic",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PINTA_PE10.pdf?",
+        "Pendant Light",
+        "Range_1101-1200lm",
+        "Size_Oversized",
+        "Voltage_240v",
+        "Weight_3.80kg",
+        "Width_1000mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Pinta-LED-Pendant-Light-10Lt-in-Black-or-Gold-PINTA-PE10_600x600.jpg?v=1748662187",
+      "uid": "8900288282850",
+      "url": "/products/pinta-led-pendant-light-10lt-in-black-or-gold",
+      "variant_sku": [
+        "PINTA PE10-BK",
+        "PINTA PE10-GD"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Chrome Pendant Lights",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): JURA PE2T-CH3C, JURA PE2T-GD3C\nProduct Type: Pendant Light\nColour: Chrome, Gold\nFixture Diameter: 600mm\nFixture Weight: 7kg\nCanopy Diameter: 210mm\nSuspension Length: 2500mm\nMaterial: Crystal, Stainless Steel\nWattage: 100w\nGlobe Type: LED\nGlobe Included: Yes\nColour Temperature: 3 CCT (3300k - 4200k - 6500k)\nLumens: 12000lm\nDimmable: Yes - Bluetooth Remote\nIP Rating: IP20\nLead and Plug: No\nInput Voltage: 240v\nWarranty: 3 Years",
+      "handle": "jura-2-tier-led-pendant-light-cct-100w-in-chrome-or-gold",
+      "id": "873d9914b9ef712ea7c6c9f2db89eace",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Jura_2_Tier_LED_Pendant_Light_CCT_100w_in_Chrome_or_Gold_JURA-PE2T_600x600.jpg?v=1746512140",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoMkyMI8yBPFJRA-wNmabSBHpi55-3-v3lzVDjcdsVcjLwKQHYbLZgspYQ8O1aA1Iem_L2tPn2XxuHZfH7ZiuJ7nTdB4mMAwZKoLlu_keAAD__0kWF7c",
+      "intellisuggestSignature": "e03444acfb83a258b94a827eabb21ec1b15659edf49afa0a1618466a65d61ee3",
+      "mfield_filter_colour": [
+        "Chrome",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "CCT (Colour Changing)",
+        "3000k Warm White",
+        "4000k Cool White",
+        "6500k Blue Daylight"
+      ],
+      "mfield_filter_dimmable": [
+        "Yes"
+      ],
+      "mfield_filter_globe_base": [
+        "Integrated LED"
+      ],
+      "mfield_filter_height": [
+        "2500"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "12000"
+      ],
+      "mfield_filter_material": [
+        "Crystal",
+        "316 Stainless Steel"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "100"
+      ],
+      "mfield_filter_width": [
+        "600"
+      ],
+      "name": "Jura 2 Tier LED Pendant Light CCT 100w in Chrome or Gold",
+      "price": "1502.99",
+      "product_type_unigram": "light",
+      "sku": "JURA PE2T-CH3C",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46547363004642",
+      "ss_instock_pct": "50",
+      "ss_is_published": "1",
+      "ss_sku": "JURA PE2T-CH3C",
+      "tags": [
+        "3YW",
+        "CCT",
+        "Chrome Pendant Light",
+        "Colour Temperature_3000k",
+        "Colour Temperature_4000k",
+        "Colour Temperature_6500k",
+        "Colour_Chrome",
+        "Colour_Gold",
+        "Cord Length_2500mm",
+        "Cord_Cord",
+        "Diameter_ø600mm",
+        "Dimmable_Yes",
+        "Globe Type_LED",
+        "Globe_Included",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_JURA_PE2T_INS.pdf?v=1746513641",
+        "IP Rating_IP20",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Lumens_12000lm",
+        "Material_Crystal",
+        "Material_Stainless Steel",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_JURA_PE2T.pdf?v=1746513641",
+        "Pendant Light",
+        "Range_11901-12000lm",
+        "Size_Large",
+        "Wattage_100w",
+        "Weight_7kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Jura_2_Tier_LED_Pendant_Light_CCT_100w_in_Chrome_or_Gold_JURA-PE2T_600x600.jpg?v=1746512140",
+      "uid": "8883951141090",
+      "url": "/products/jura-2-tier-led-pendant-light-cct-100w-in-chrome-or-gold",
+      "variant_sku": [
+        "JURA PE2T-CH3C",
+        "JURA PE2T-GD3C"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): GASTON PE2-AG, GASTON PE2-BK\nProduct Type: Pendant Light\nColour: Antique Gold, Black\nGlass Colour: Amber Tear, Clear Prism, Frost Tear, Opal Matt, Smoke, Smoke Tear\nFixture Diameter: 210mm\nFixture Weight: 0.75kg\nCanopy Diameter: 120mm\nCanopy Projection: 25mm\nGlass Diameter: 120mm\nSuspension Length: 2000mm\nMaterial: Glass, Iron\nWattage: 2x 6w\nGlobe(s) Required: 2\nGlobe Base: G9\nGlobe Included: No\nDimmable: Globe Dependant\nIP Rating: IP20\nLead and Plug: No\nInput Voltage: 240v\nWarranty: 3 Years",
+      "handle": "gaston-pendant-light-2lt-in-antique-gold-black",
+      "id": "3f2e5803fa31bc721af5b1116c1c3eca",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Gaston_Pendant_Light_2Lt_in_Antique_Gold_Black_GASTON-PE2_600x600.jpg?v=1746430281",
+      "intellisuggestData": "eJwEwEsKwkAMBuD_KHOBwCSmYJazkK58gL1AZ2LaihSR2ejp_Z7fn6wZajxka0JeD0x6FCabLagOLTRcq7aApNe2rD29H7vPe8dY7tP1km4noTKW8wQGZ2SoCJbP5v8AAAD__5aEGI4",
+      "intellisuggestSignature": "c336ee680f2caa5d3f651cb7646fae9ec1968f0d00c49fc96ac2535ebf73f904",
+      "mfield_filter_colour": [
+        "Gold",
+        "Black"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "120"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "12"
+      ],
+      "mfield_filter_width": [
+        "210"
+      ],
+      "name": "Gaston Pendant Light 2Lt in Antique Gold, Black",
+      "price": "89.99",
+      "product_type_unigram": "light",
+      "sku": "GASTON PE2-AGAMT",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46545179574498",
+      "ss_instock_pct": "7",
+      "ss_is_published": "1",
+      "ss_sku": "GASTON PE2-AGAMT",
+      "tags": [
+        "3YW",
+        "Black Pendant",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_2000mm",
+        "Cord_Cord",
+        "Glass Pendant",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_GASTON_PE2_INS.pdf?v=1746431686",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Metal",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_GASTON_PE2.pdf?v=1746431685",
+        "Pendant Light",
+        "Shade Material_Glass",
+        "Size_Small",
+        "Weight_0.75kg",
+        "Width_210mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Gaston_Pendant_Light_2Lt_in_Antique_Gold_Black_GASTON-PE2_600x600.jpg?v=1746430281",
+      "uid": "8883364528354",
+      "url": "/products/gaston-pendant-light-2lt-in-antique-gold-black",
+      "variant_sku": [
+        "GASTON PE2-AGAMT",
+        "GASTON PE2-AGCLP",
+        "GASTON PE2-AGFRT",
+        "GASTON PE2-AGOM",
+        "GASTON PE2-AGSM",
+        "GASTON PE2-AGSMT",
+        "C GASTON PE2-AG",
+        "GASTON PE2-BKAMT",
+        "GASTON PE2-BKCLP",
+        "GASTON PE2-BKFRT",
+        "GASTON PE2-BKOM",
+        "GASTON PE2-BKSM",
+        "GASTON PE2-BKSMT",
+        "C GASTON PE2-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): GASTON PE6-AG, GASTON PE6-BK\nProduct Type: Pendant Light\nColour: Antique Gold, Black\nGlass Colour: Amber Tear, Clear Prism, Frost Tear, Opal Matt, Smoke, Smoke Tear\nFixture Diameter: 1050mm\nFixture Height: 290mm\nFixture Weight: 2.05kg\nCanopy Diameter: 120mm\nCanopy Projection: 25mm\nGlass Diameter: 120mm\nSuspension Length: 1500mm Rod (1x300)+(2x600)\nMaterial: Glass, Iron\nWattage: 6x 6w\nGlobe(s) Required: 6\nGlobe Base: G9\nGlobe Included: No\nDimmable: Globe Dependant\nIP Rating: IP20\nLead and Plug: No\nInput Voltage: 240v\nWarranty: 3 Years",
+      "handle": "gaston-pendant-light-6lt-in-antique-gold-black",
+      "id": "01a8e761e00f23c329251e8fcc230950",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Gaston_Pendant_Light_6Lt_in_Antique_Gold_Black_GASTON-PE6_600x600.jpg?v=1746425354",
+      "intellisuggestData": "eJwEwEsKwkAMBuD_KHOBwCSmYpazkK58gL1AZ2LaihSRbvT0_V6_v8wZatxla0JeD0x6EiYbLah2LTRcq7aApPcyzVv6PFcf1w19eQy3a7qfj1T6chnAYEaGimD6Lr4HAAD__5bsGJM",
+      "intellisuggestSignature": "aae004e2274cc6ed3f7b040a75710a5e7e5fb6de9954845d64315a0588c4d49b",
+      "mfield_filter_colour": [
+        "Gold",
+        "Black"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "290"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "36"
+      ],
+      "mfield_filter_width": [
+        "1050"
+      ],
+      "name": "Gaston Pendant Light 6Lt in Antique Gold, Black",
+      "price": "469.99",
+      "product_type_unigram": "light",
+      "sku": "GASTON PE6-AGAMT",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46545091789026",
+      "ss_instock_pct": "7",
+      "ss_is_published": "1",
+      "ss_sku": "GASTON PE6-AGAMT",
+      "tags": [
+        "3YW",
+        "Black Pendant",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Rod",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_290mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_GASTON_PE6_INS.pdf?v=1746427618",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Metal",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_GASTON_PE6.pdf?v=1746427618",
+        "Pendant Light",
+        "Shade Diameter_ø120mm",
+        "Size_Oversized",
+        "Weight_2kg",
+        "Width_1050mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Gaston_Pendant_Light_6Lt_in_Antique_Gold_Black_GASTON-PE6_600x600.jpg?v=1746425354",
+      "uid": "8883356729570",
+      "url": "/products/gaston-pendant-light-6lt-in-antique-gold-black",
+      "variant_sku": [
+        "GASTON PE6-AGAMT",
+        "GASTON PE6-AGCLP",
+        "GASTON PE6-AGFRT",
+        "GASTON PE6-AGOM",
+        "GASTON PE6-AGSM",
+        "GASTON PE6-AGSMT",
+        "C GASTON PE6-AG",
+        "GASTON PE6-BKAMT",
+        "GASTON PE6-BKCLP",
+        "GASTON PE6-BKFRT",
+        "GASTON PE6-BKOM",
+        "GASTON PE6-BKSM",
+        "GASTON PE6-BKSMT",
+        "C GASTON PE6-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Nickel Pendant Lights",
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): PERRON PE1-AG, PERRON PE1-NK, PERRON PE1-BK\nProduct Type: Pendant Light\nColour: Antique Gold, Nickel, Black\nFixture Diameter: 280mm\nFixture Height: 330mm\nFixture Weight: 3.40kg\nCanopy Diameter: 120mm\nCanopy Projection: 20mm\nSuspension Length: 1500mm - Rod (1x300)+(2x600)\nHeight Adjustable: Yes\nMaterial: Iron, Glass\nWattage: 25w\nGlobe(s) Required: 1\nGlobe Base: E27\nGlobe Included: No\nInput Voltage: 240v\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "perron-pendant-light-in-antique-gold-nickel-black",
+      "id": "426edca86b66ee035975ff2872ae870b",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Perron_Pendant_Light_in_Antique_Gold_Nickel_Black_PERRON-PE1_600x600.jpg?v=1745890120",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoIkZmEcfhm86doO1MVtFikhf9PR-z-9Pjgw1nrJVIS8nJj0Lk20WVKYaGq5Fa0DSq-3HSO9H960PLPO63m9pmZkuVzBYkKEi2D_N_wEAAP__SdkXtw",
+      "intellisuggestSignature": "fad57608f423b902065bf42c34b94a47ff04a81b167294534139d4621c12f190",
+      "mfield_filter_colour": [
+        "Gold",
+        "Chrome",
+        "Black",
+        "Clear/Glass"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_height": [
+        "330"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "25"
+      ],
+      "mfield_filter_width": [
+        "280"
+      ],
+      "name": "Perron Pendant Light in Antique Gold, Nickel, Black",
+      "price": "309.99",
+      "product_type_unigram": "light",
+      "sku": "PERRON PE1-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46535102791906",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "PERRON PE1-AG",
+      "tags": [
+        "3YW",
+        "Black Pendant",
+        "Brass Pendant",
+        "Chrome Pendant Light",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Nickel",
+        "Cord_Rod",
+        "Diameter_ø280mm",
+        "Glass Pendant",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "Height_330mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PERRON_PE1_INS.pdf?v=1745892095",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PERRON_PE1.pdf?v=1745892095",
+        "Pendant Light",
+        "Single_Pendant",
+        "Size_Small",
+        "Weight_ 3.40kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Perron_Pendant_Light_in_Antique_Gold_Nickel_Black_PERRON-PE1_600x600.jpg?v=1745890120",
+      "uid": "8880786440418",
+      "url": "/products/perron-pendant-light-in-antique-gold-nickel-black",
+      "variant_sku": [
+        "PERRON PE1-AG",
+        "PERRON PE1-NK",
+        "PERRON PE1-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): HARNON PE1-AG, HARNON PE1-BK, HARNON PE1-NK\nProduct Type: Pendant Light\nColour: Antique Gold, Black, Nickel\nDiameter: ø350mm\nHeight: 560mm\nWeight: 5.80kg\nCanopy Diameter: ø120mm\nCanopy Projection: 20mm\nSuspension Length: 1500mm\nSuspension Type: Rod (1x300)+(2x600)\nMaterial: Iron, Glass\nWattage: 25w\nGlobe(s) Required: 1\nGlobe Base: E27\nGlobe Included: No\nDimmable: Globe Dependent\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "harnon-pendant-light-in-antique-gold-black-or-nickel",
+      "id": "ee05f878ef15f4d020f8b5493c38556d",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Harnon-Pendant-Light-in-Antique-Gold-Black-or-Nickel-HARNON-PE1_600x600.jpg?v=1745838682",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoMkyMI97EH2a4g3WxmwTKSJ90dPve_3-smWo8ZitCnkZmPQkTLZYUBlraLgWrQFJ733devo8my-t4zo95tuc7mem6QIGD8hQEazf3Y8AAAD__0glF6g",
+      "intellisuggestSignature": "b07e969598459e07506d0cc6b0b5bb095678e2c5ddccdf9d9c8b726400190f59",
+      "mfield_filter_colour": [
+        "Gold",
+        "Black",
+        "Silver"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_height": [
+        "560"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "25"
+      ],
+      "mfield_filter_width": [
+        "350"
+      ],
+      "name": "Harnon Pendant Light in Antique Gold, Black or Nickel",
+      "price": "749.99",
+      "product_type_unigram": "light",
+      "sku": "HARNON PE1-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46533956403426",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "HARNON PE1-AG",
+      "tags": [
+        "3YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Nickel",
+        "Colour_Silver",
+        "Cord_Rod",
+        "Diameter_ø350mm",
+        "Dimmable_Yes",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "Height_560mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_HARNON_PE1-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_HARNON_PE1.pdf?",
+        "Pendant Light",
+        "Size_Medium",
+        "Voltage_240v",
+        "Weight_5.80kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Harnon-Pendant-Light-in-Antique-Gold-Black-or-Nickel-HARNON-PE1_600x600.jpg?v=1745838682",
+      "uid": "8880559685858",
+      "url": "/products/harnon-pendant-light-in-antique-gold-black-or-nickel",
+      "variant_sku": [
+        "HARNON PE1-AG",
+        "HARNON PE1-BK",
+        "HARNON PE1-NK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Nickel Pendant Lights",
+        "Lighting",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): PERRON PE4-AG, PERRON PE4-NK, PERRON PE4-BK\nProduct Type: Pendant Light\nColour: Antique Gold, Nickel, Black\nFixture Diameter: 380mm\nFixture Height: 420mm\nFixture Weight: 5.30kg\nCanopy Diameter: 120mm\nCanopy Projection: 20mm\nSuspension Length: 1500mm - Rod (1x300)+(2x600)\nHeight Adjustable: Yes\nMaterial: Iron, Glass\nWattage: 4x 25w\nGlobes Required: 4\nGlobe Base: E14\nGlobe Included: No\nInput Voltage: 240v\nIP Rating: IP20\nWarranty: 3 Years",
+      "handle": "perron-pendant-light-4lt-in-antique-gold-nickel-black",
+      "id": "75104c352cdf3f4324603dc06b50bf4b",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Perron_Pendant_Light_4Lt_in_Antique_Gold_Nickel_Black_PERRON-PE4_600x600.jpg?v=1745830980",
+      "intellisuggestData": "eJwEwEEKwjAQBdB_lFxgIDP-glm6KO609AZNxmkrUkSy0dP7nt-fbRksOuTSTLyeVHg2lbKUkDq0YDgrW8DSa1-3nt6Pw5ejYxrn-X5L00i5XKFQIoNmWD-7_wMAAP__Si0XvA",
+      "intellisuggestSignature": "d9f7135e6c8e9fe03239f5603ddd0e062cee8280f02c0ff5ea507b96dc4c1441",
+      "mfield_filter_colour": [
+        "Gold",
+        "Chrome",
+        "Black",
+        "Clear/Glass"
+      ],
+      "mfield_filter_globe_base": [
+        "E14"
+      ],
+      "mfield_filter_height": [
+        "420"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "100"
+      ],
+      "mfield_filter_width": [
+        "380"
+      ],
+      "name": "Perron Pendant Light 4Lt in Antique Gold, Nickel, Black",
+      "price": "539.99",
+      "product_type_unigram": "light",
+      "sku": "PERRON PE4-AG",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46533842731234",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_sku": "PERRON PE4-AG",
+      "tags": [
+        "3YW",
+        "Black Pendant",
+        "Brass Pendant",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_Nickel",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Diameter_ø380mm",
+        "Glass Pendant",
+        "Globe Base_E14",
+        "Globe_Excluded",
+        "Height_420mm",
+        "INS-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PERRON_PE4_INS.pdf?v=1745886094",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "PDF-https://cdn.shopify.com/s/files/1/0707/3595/4146/files/TELBIX_PERRON_PE4.pdf?v=1745886093",
+        "Pendant",
+        "Pendant Light",
+        "Size_Medium",
+        "Weight_ 5.30kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Perron_Pendant_Light_4Lt_in_Antique_Gold_Nickel_Black_PERRON-PE4_600x600.jpg?v=1745830980",
+      "uid": "8880528228578",
+      "url": "/products/perron-pendant-light-4lt-in-antique-gold-nickel-black",
+      "variant_sku": [
+        "PERRON PE4-AG",
+        "PERRON PE4-NK",
+        "PERRON PE4-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Crystal Lighting",
+        "Chrome Pendant Lights",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): RIAS PE2T: CH3C, RIAS PE2T: GD3C\nProduct Type: Pendant Light\nColour: Chrome, Gold\nDiameter: ø600mm\nHeight: 2650mm\nCanopy Diameter: ø210mm\nCanopy Projection: 70mm\nSuspension Length: 2500mm\nWeight: 8.00kg\nMaterial: Crystal, Stainless Steel\nCable Material: Break Wire\nWattage (Max): 70w\nBulb Type: LED \nBulb Included: Yes\nColour Temperature: 3300k, 4200k, 6500k\nLumens: 7000lm\nDimmable: Yes \nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "rias-2-tier-led-pendant-light-in-chrome-or-gold",
+      "id": "6c34c8200c6d6db575ed016d4c7c853f",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_256b6a96-f316-485d-9e16-ad19546ed815_600x600.jpg?v=1731271720",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KL1AoMlSMI8yBH0T9QJrY7aJDJG-6On3vX5_WTLUuGRrQl4HJj0Ik00WVEsLDdeqLSDpvc5LT5_n5tPWcbsc7-l6kgeN52EEgwsyVATzd_U9AAD__2ARF-E",
+      "intellisuggestSignature": "90056b42106298e34454469c10bc5256560325bdfc1f571fbe05867735c42560",
+      "mfield_filter_colour": [
+        "Chrome",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White",
+        "CCT (Colour Changing)",
+        "4000k Cool White",
+        "6500k Blue Daylight"
+      ],
+      "mfield_filter_dimmable": [
+        "Yes"
+      ],
+      "mfield_filter_height": [
+        "2650"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "7000"
+      ],
+      "mfield_filter_material": [
+        "Crystal"
+      ],
+      "mfield_filter_style": [
+        "Crystal"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "msrp": "1592.95",
+      "name": "Rias 2 Tier LED Pendant Light in Chrome or Gold",
+      "price": "1327.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "RIAS PE2T-CH3C",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120415559906",
+      "ss_instock_pct": "50",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "17",
+      "ss_sku": "RIAS PE2T-CH3C",
+      "tags": [
+        "3YW",
+        "CCT",
+        "Colour Temperature_3000k",
+        "Colour Temperature_4000k",
+        "Colour Temperature_4200k",
+        "Colour Temperature_6500k",
+        "Colour_Chrome",
+        "Colour_Gold",
+        "Cord Length_2500mm",
+        "Cord_Cord",
+        "Diameter_ø600mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_2650mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_RIAS_PE2T-INS.pdf?",
+        "IP Rating_IP20",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Lumens_7000lm",
+        "Material_Crystal",
+        "Material_Stainless Steel",
+        "Material_Steel",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_RIAS_PE2T.pdf?",
+        "Pendant Light",
+        "Range_6901-7000lm",
+        "Size_Large",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Weight_8kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_256b6a96-f316-485d-9e16-ad19546ed815_600x600.jpg?v=1731271720",
+      "uid": "8751540928738",
+      "url": "/products/rias-2-tier-led-pendant-light-in-chrome-or-gold",
+      "variant_sku": [
+        "RIAS PE2T-CH3C",
+        "RIAS PE2T-GD3C"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): FELTON PE06AG, FELTON PE06BK\nProduct Type: Pendant Light\nFixture Colour: Antique Gold, Black\nShade Colour: Amber Tear, Clear Prism, Frost Tear, Opal Matt, Smoke, Smoke Tear\nDiameter: ø650mm\nHeight: 295mm\nShade Diameter: ø120mm\nCanopy Diameter: ø120mm\nCanopy Projection: 25mm\nSuspension Length: 1500mm\nSuspension Type: Rod (1x300)+(2x600)\nWeight: 3.50kg\nMaterial: Glass, Iron\nWattage (Max): 36w\nGlobes Required: 6\nGlobe Base: G9\nGlobe Included: No\nDimmable: Globe Dependent\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "felton-6lt-pendant-light-in-antique-gold-or-black",
+      "id": "e7ee5e4e5162f1c0ff9492095fd0b60d",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/FELTON-PE06_600x600.jpg?v=1733279325",
+      "intellisuggestData": "eJwEwEsOgkAMBuD_KHOBSdpaiF2yQDe-FlyAmVrAGGIMGz093-v3l5mgxg1ZlezlwFmPwtlGi1yaGhquRWtA0nuZ5i19nquP64ZTfxnut_Toqe3O3XUAg1sQVATTd_E9AAD__5buGJc",
+      "intellisuggestSignature": "29148f54107abe190b3faa7deefb794d02337c1418bebb36a39a8a0e8816045d",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Grey",
+        "Orange",
+        "White",
+        "Clear/Glass"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "295"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "36"
+      ],
+      "mfield_filter_width": [
+        "650"
+      ],
+      "name": "Felton 6Lt Pendant Light in Antique Gold or Black",
+      "price": "369.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "FELTON PE06AGAMT",
+      "ss_available": "0",
+      "ss_has_image": "1",
+      "ss_id": "46120414904546",
+      "ss_instock_pct": "0",
+      "ss_is_published": "1",
+      "ss_sku": "FELTON PE06AGAMT",
+      "tags": [
+        "3YW",
+        "Colour_Black",
+        "Colour_Clear",
+        "Colour_Gold",
+        "Colour_Grey",
+        "Colour_Orange",
+        "Colour_White",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Diameter_ø120mm",
+        "Diameter_ø650mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_295mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE06-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "out-of-stock-police",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE06.pdf?",
+        "Pendant Light",
+        "Size_Large",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Weight_3.50kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/FELTON-PE06_600x600.jpg?v=1733279325",
+      "uid": "8751540633826",
+      "url": "/products/felton-6lt-pendant-light-in-antique-gold-or-black",
+      "variant_sku": [
+        "FELTON PE06AGAMT",
+        "FELTON PE06AGCLP",
+        "FELTON PE06AGFRT",
+        "FELTON PE06AGOM",
+        "FELTON PE06AGSM",
+        "FELTON PE06AGSMT",
+        "C FELTON PE06-AG",
+        "FELTON PE06BKAMT",
+        "FELTON PE06BKCLP",
+        "FELTON PE06BKFRT",
+        "FELTON PE06BKOM",
+        "FELTON PE06BKSM",
+        "FELTON PE06BKSMT",
+        "C FELTON PE06-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): FELTON PE09AG, FELTON PE09BK\nProduct Type: Pendant Light\nFixture Colour: Antique Gold, Black\nShade Colour: Amber Tear, Clear Prism, Frost Tear, Opal Matt, Smoke, Smoke Tear\nDiameter: ø880mm\nHeight: 295mm\nShade Diameter: ø120mm\nCanopy Diameter: ø120mm\nCanopy Projection: 25mm\nSuspension Length: 1500mm\nSuspension Type: Rod (1x300)+(2x600)\nWeight: 4.55kg\nMaterial: Glass, Iron\nWattage (Max): 54w\nGlobes Required: 9\nGlobe Base: G9\nGlobe Included: No\nDimmable: Globe Dependent\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "felton-9lt-pendant-light-in-antique-gold-or-black",
+      "id": "4156ac00c27be15ea1d9e610aa482281",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_83925e5a-2079-45bd-b554-558935c6afe9_600x600.jpg?v=1731271620",
+      "intellisuggestData": "eJwEwDsOwjAMBuD_KLlAJNu4Ao8dCguvoRdoYtwWoQqhLHB6vuf3JwtBjTuyKtnLjrMehLNNFrl0NTRci9aApNc6Ly29H5tPW8NxOI-3a7oPZP2pv4xg8B4EFcH8Wf0fAAD__5c8GJs",
+      "intellisuggestSignature": "fb299e997d9ca4b77485a0bc48464354b3c8539679a59c129254f8b432f76dcf",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Grey",
+        "Orange",
+        "White",
+        "Clear/Glass"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "295"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "54"
+      ],
+      "mfield_filter_width": [
+        "880"
+      ],
+      "name": "Felton 9Lt Pendant Light in Antique Gold or Black",
+      "price": "559.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "FELTON PE09AGAMT",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120414413026",
+      "ss_instock_pct": "14",
+      "ss_is_published": "1",
+      "ss_sku": "FELTON PE09AGAMT",
+      "tags": [
+        "3YW",
+        "Colour_Black",
+        "Colour_Clear",
+        "Colour_Gold",
+        "Colour_Grey",
+        "Colour_Orange",
+        "Colour_White",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Diameter_ø120mm",
+        "Diameter_ø880mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_295mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE09-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "out-of-stock-police",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE09.pdf?",
+        "Pendant Light",
+        "Size_Oversized",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Weight_4.55kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_83925e5a-2079-45bd-b554-558935c6afe9_600x600.jpg?v=1731271620",
+      "uid": "8751540502754",
+      "url": "/products/felton-9lt-pendant-light-in-antique-gold-or-black",
+      "variant_sku": [
+        "FELTON PE09AGAMT",
+        "FELTON PE09AGCLP",
+        "FELTON PE09AGFRT",
+        "FELTON PE09AGOM",
+        "FELTON PE09AGSM",
+        "FELTON PE09AGSMT",
+        "C FELTON PE09-AG",
+        "FELTON PE09BKAMT",
+        "FELTON PE09BKCLP",
+        "FELTON PE09BKFRT",
+        "FELTON PE09BKOM",
+        "FELTON PE09BKSM",
+        "FELTON PE09BKSMT",
+        "C FELTON PE09-BK"
+      ]
+    },
+    {
+      "brand": "Telbix Lighting",
+      "collection_name": [
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Telbix Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Telbix Lighting\nSku(s): FELTON PE12AG, FELTON PE12BK\nProduct Type: Pendant Light\nFixture Colour: Antique Gold, Black\nShade Colour: Amber Tear, Clear Prism, Frost Tear, Opal Matt, Smoke, Smoke Tear\nDiameter: ø1130mm\nHeight: 295mm\nShade Diameter: ø120mm\nCanopy Diameter: ø120mm\nCanopy Projection: 25mm\nSuspension Length: 1500mm\nSuspension Type: Rod (1x300)+(2x600)\nWeight: 6kg\nMaterial: Glass, Iron\nWattage (Max): 72w\nGlobes Required: 12\nGlobe Base: G9\nGlobe Included: No\nDimmable: Globe Dependent\nIP Rating: IP20\nVoltage: 240v\nWarranty: 3 Years",
+      "handle": "felton-12lt-pendant-light-in-antique-gold-or-black",
+      "id": "e8fa486acdbe2fda8f9e303e49272e50",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_96ed11e9-b0b0-4f57-8fde-541d5584bd8d_600x600.jpg?v=1731271562",
+      "intellisuggestData": "eJwEwEsOgkAMBuD_KHOBJtNaErpkgW58LbgAM7WAMcSY2ejp_Z7fn6wZatxlq0JeDkzaC5PNFlS6GhquRWtA0mtb1pbej93nveE4nqfbNd1HluE0XCYwuEeGimD5bP4PAAD__5bFGJY",
+      "intellisuggestSignature": "537c7a0bcdbeb2bcbc5eebd318fb5a9771d08236df71d3ea6f4c63152f00e655",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "Grey",
+        "Orange",
+        "White",
+        "Clear/Glass"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "295"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "72"
+      ],
+      "mfield_filter_width": [
+        "1130"
+      ],
+      "name": "Felton 12Lt Pendant Light in Antique Gold or Black",
+      "price": "789.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "FELTON PE12AGAMT",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46120413855970",
+      "ss_instock_pct": "14",
+      "ss_is_published": "1",
+      "ss_sku": "FELTON PE12AGAMT",
+      "tags": [
+        "3YW",
+        "Colour_Black",
+        "Colour_Clear",
+        "Colour_Gold",
+        "Colour_Grey",
+        "Colour_Orange",
+        "Colour_White",
+        "Cord Length_1500mm",
+        "Cord_Rod",
+        "Diameter_ø1130mm",
+        "Diameter_ø120mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Base_G9",
+        "Globe_Excluded",
+        "Height_295mm",
+        "hide_href_new",
+        "INS-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE12-INS.pdf?",
+        "IP Rating_IP20",
+        "Material_Glass",
+        "Material_Iron",
+        "out-of-stock-police",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/TELBIX_FELTON_PE12.pdf?",
+        "Pendant Light",
+        "Size_Oversized",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Weight_6kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-telbix-lighting-pendant-light-the-lighting-outlet_96ed11e9-b0b0-4f57-8fde-541d5584bd8d_600x600.jpg?v=1731271562",
+      "uid": "8751540338914",
+      "url": "/products/felton-12lt-pendant-light-in-antique-gold-or-black",
+      "variant_sku": [
+        "FELTON PE12AGAMT",
+        "FELTON PE12AGCLP",
+        "FELTON PE12AGFRT",
+        "FELTON PE12AGOM",
+        "FELTON PE12AGSM",
+        "FELTON PE12AGSMT",
+        "C FELTON PE12-AG",
+        "FELTON PE12BKAMT",
+        "FELTON PE12BKCLP",
+        "FELTON PE12BKFRT",
+        "FELTON PE12BKOM",
+        "FELTON PE12BKSM",
+        "FELTON PE12BKSMT",
+        "C FELTON PE12-BK"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Dining Room Lights",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Hallway Lighting",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "French Provincial",
+        "Federation Lighting",
+        "White Pendant Light",
+        "Traditional Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): ABBEY1, ABBEY2\nProduct Type: Pendant Light\nColour: Matt Black, Matt Gold\nLength: 250mm\nWidth: 675mm\nCanopy Size: ø110mm x 25mm\nSuspension Rod: 300mm\nMaterial: Iron, Opal Glass\nBulbs Required: 6\nBulb Included: No\nBulb Type: E27\nWattage (max): 72w\nVoltage: 220: 240v\nWarranty: 1 Year",
+      "handle": "abbey-pendant-light-6xe27-in-matt-black-or-matt-gold-cla-lighting-abbey1-abbey2",
+      "id": "4a701d97c1dd736f836f2624f9cf95d3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-pendant-light-the-lighting-outlet-2_c508e382-3a4b-46b1-a35d-6e39a2852e6a_600x600.jpg?v=1731119332",
+      "intellisuggestData": "eJwEwEEKAjEMBdB_lLlAoIkZMEsHPITLtjFtRYpIN3r6ea_fX3qCGu_JqpCXC5NehcmyBZW9hoZr0RqQ7T1aX9vnOT3Phdtx3B8MBhsSVATtO_wMAAD__5-SFeE",
+      "intellisuggestSignature": "79b1ae59f95bfa265590612976237729c44f3fb80f1aa46011f905d33e85fb3c",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold",
+        "White"
+      ],
+      "mfield_filter_colour_temperature": [
+        "4000k Cool White"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "French Provincial",
+        "Federation",
+        "Traditional",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "72"
+      ],
+      "msrp": "562.25",
+      "name": "Art Deco Style Pendant Light in Matt Black or Matt Gold",
+      "popularity": "27",
+      "price": "397.9",
+      "product_type_unigram": "light",
+      "rating": "4.7",
+      "ratingCount": "3",
+      "sku": "ABBEY1",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46117715149026",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "29",
+      "ss_sku": "ABBEY1",
+      "tags": [
+        "1_Image",
+        "1YW",
+        "_indoor_lighting_collection",
+        "Black Pendant",
+        "brands_excluded",
+        "By Material",
+        "Colour Temperature_4000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_White",
+        "Cord_Cord",
+        "Diameter_ø675mm",
+        "Discount",
+        "Discounted Products",
+        "frenzy_exclude",
+        "FromTheBlog-Pendant Light",
+        "Glass Pendant",
+        "Globe Base_E27",
+        "Globe Rec E27 A60",
+        "Globe_Included",
+        "Hallway Lighting",
+        "hide_href_new",
+        "Kogan2",
+        "KoganHero",
+        "LED_Yes",
+        "lightco-ex-elstead",
+        "Material_Glass",
+        "Material_Iron",
+        "Material_Metal",
+        "Material_Steel",
+        "Modern",
+        "No Increase",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/CLA_ABBEY1_ABBEY2.pdf",
+        "Pendant Light",
+        "pendant_discount",
+        "Pictured",
+        "product_addon",
+        "Recglobe",
+        "Room_Bedroom",
+        "Room_Dining",
+        "Room_Entry",
+        "Room_Living",
+        "RRPBrand",
+        "Sensor_No",
+        "Style_Art Deco",
+        "Style_Modern",
+        "synced",
+        "v_discount",
+        "Voltage_240v",
+        "Wattage_72w",
+        "White Pendant Light"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-pendant-light-the-lighting-outlet-2_c508e382-3a4b-46b1-a35d-6e39a2852e6a_600x600.jpg?v=1731119332",
+      "uid": "8750857191650",
+      "url": "/products/abbey-pendant-light-6xe27-in-matt-black-or-matt-gold-cla-lighting-abbey1-abbey2",
+      "variant_sku": [
+        "ABBEY1",
+        "ABBEY2"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Smoked Glass Pendant Lights",
+        "Globe Pendant Lights",
+        "Dining Room Lights",
+        "Lighting",
+        "Brass Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Kitchen &amp; Island Pendants",
+        "Copper Pendant Lights",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): MARACA1, MARACA2, MARACA3, MARACA4, MARACA5\nProduct Type: Pendant Light\nColour: Smoke/Antique Brass, Green/Black, Amber/Black, Copper/Black, Matte Gold/Antique Brass\nShade Height: 295mm\nShade Diameter: ø200mm\nCord Length: 3000mm\nCanopy Diameter: ø100mm\nMaterial: Glass\nBulbs Required: 1\nBulb Included: No\nBulb Type: E27\nWattage (max): 72w\nVoltage: 220: 240v\nWarranty: 1 Year",
+      "handle": "maraca-interior-glass-jar-with-quadrilateral-segment-pendant-light-in-different-colours",
+      "id": "8e24173bf90de8bdd0282e4e2c088fd3",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-maraca1-pendant-light-smokeantique-brass-the-lighting-outlet-4_600x600.jpg?v=1731217097",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KLtAIIkZmMfisy_eYG3MVpEi0hc9_b7X768Hw1xW9qYU9SJkVxXyzZPq2tIyrFpL6PLu-zGXz3PENibu5VFuRSBQBsNUsX97nAEAAP__tsgWGw",
+      "intellisuggestSignature": "444bc771a15bf6b9a4f6b13614346688f5b316f4eeb354ba69b8010d946220c0",
+      "mfield_filter_colour": [
+        "Black",
+        "Copper",
+        "Gold",
+        "Green",
+        "Grey",
+        "Yellow"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_height": [
+        "295"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Brass",
+        "Glass"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "msrp": "275.6",
+      "name": "Maraca interior Glass Jar with Quadrilateral Segment Pendant Light in Different Colours",
+      "popularity": "20",
+      "price": "195.04",
+      "product_type_unigram": "light",
+      "rating": "5",
+      "ratingCount": "1",
+      "sku": "MARACA1",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46119624966370",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "29",
+      "ss_sku": "MARACA1",
+      "tags": [
+        "1_Image",
+        "1YW",
+        "_indoor_lighting_collection",
+        "Colour Pendants",
+        "Colour_Black",
+        "Colour_Copper",
+        "Colour_Gold",
+        "Colour_Green",
+        "Colour_Grey",
+        "Colour_Yellow",
+        "Cord_Cord",
+        "Diameter_ø200mm",
+        "Discount",
+        "glass_sphere_pendant",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "Height_295mm",
+        "hide_href_new",
+        "IP RATING_20",
+        "IP Rating_IP20",
+        "Kitchen Pendant",
+        "Material_Glass",
+        "Modern",
+        "new_sync_april13",
+        "new_sync_sep",
+        "No Increase",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/CLA_MARACA1-5.pdf",
+        "Pendant Light",
+        "product_addon",
+        "Room_Bedroom",
+        "Room_Dining",
+        "Room_Kitchen",
+        "Room_Living",
+        "RRPBrand",
+        "Sensor_No",
+        "smoke_glass_pendant",
+        "Style_Modern",
+        "to_sync_sept",
+        "Voltage_240v"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-maraca1-pendant-light-smokeantique-brass-the-lighting-outlet-4_600x600.jpg?v=1731217097",
+      "uid": "8751343272162",
+      "url": "/products/maraca-interior-glass-jar-with-quadrilateral-segment-pendant-light-in-different-colours",
+      "variant_sku": [
+        "MARACA1",
+        "MARACA2",
+        "MARACA3",
+        "MARACA4",
+        "MARACA5"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Latest Products",
+        "Dining Room Lights",
+        "Lighting",
+        "Black Pendant Light",
+        "Kitchen &amp; Island Pendants",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): TUILE1, TUILE2, TUILE3\nProduct Type: Pendant Light\nColour: Matte Black, Champagne Gold, Coffee\nLength: 200mm\nDiameter: ø200mm\nCanopy Diameter: ø100mm\nCord Length: 3000mm\nMaterial: Iron\nWattage (Max): 72w\nBulbs Required: 1\nGlobe Type: E27\nBulb Included: No\nWarranty: 1 Year",
+      "handle": "tuile-pendant-light-interior-embossed-tile-iron-o200mm-available-in-3-colours",
+      "id": "7a1262060dd79bbe34798b70447c7c09",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-tuile1-pendant-light-matte-black-the-lighting-outlet-5_600x600.jpg?v=1731100296",
+      "intellisuggestData": "eJwEwMEJQjEMBuB_lLdAoIl5YAbwIHjUAdrGtBUpIr3o9O97_f7SE9R4T1aFvJyY9CxMli2o7DU0XIvWgGzv0fraPs_peS7cH9fbhcEQRoKKoH2HHwEAAP__ohkV-g",
+      "intellisuggestSignature": "6d2952eb83b2aa729e3ddd09479e50046a62630e2e7d8f20e72a82c21f6a690a",
+      "mfield_filter_colour": [
+        "Black",
+        "Brown",
+        "Gold"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_material": [
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern"
+      ],
+      "mfield_filter_wattage": [
+        "72"
+      ],
+      "msrp": "165.62",
+      "name": "Tuile Pendant Light interior Embossed Tile Iron ø200mm Available in 3 Colours",
+      "popularity": "30",
+      "price": "117.21",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "TUILE1",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46116975542498",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "29",
+      "ss_sku": "TUILE1",
+      "tags": [
+        "1_Image",
+        "1YW",
+        "_indoor_lighting_collection",
+        "Black Pendant",
+        "brands_excluded",
+        "Cable Length_3000mm",
+        "Colour_Black",
+        "Colour_Brown",
+        "Colour_Gold",
+        "Cord_Cord",
+        "Diameter_ø200mm",
+        "discount",
+        "frenzy_exclude",
+        "FromTheBlog-Pendant Light",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "hide_href_new",
+        "Indoor Light",
+        "IP Rating_IP20",
+        "Kitchen Pendant",
+        "Kogan2",
+        "KoganHero",
+        "LED_Yes",
+        "Length_200mm",
+        "lightco-ex-elstead",
+        "Material_Iron",
+        "Material_Metal",
+        "Material_Steel",
+        "Modern",
+        "new_sept",
+        "No Increase",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/CLA_TUILE1-6.pdf",
+        "Pendant Light",
+        "pendant_discount",
+        "product_addon",
+        "Recglobe",
+        "Room_Dining",
+        "Room_Kitchen",
+        "Room_Living",
+        "RRPBrand",
+        "Sensor_No",
+        "Style_Industrial",
+        "Style_Modern",
+        "synced",
+        "v_discount",
+        "Wattage_72w"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-tuile1-pendant-light-matte-black-the-lighting-outlet-5_600x600.jpg?v=1731100296",
+      "uid": "8750562476258",
+      "url": "/products/tuile-pendant-light-interior-embossed-tile-iron-o200mm-available-in-3-colours",
+      "variant_sku": [
+        "TUILE1",
+        "TUILE2",
+        "TUILE3"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510220\nProduct Type: Pendant Light\nColour: Black, Gold\nDiameter: ø120mm \nHeight: 220mm\nBase Diameter: ø100mm\nSuspension Cable: 2000mm\nWeight: 2kg\nMaterial: Aluminium, Glass\nWattage (Max): 1 x 6w\nBulbs Required: 1\nBulb Type: LED\nBulb Base: G9\nBulb Included: Yes\nColour Temperature: 3000k\nLumens: 550lm\nDimmable: Yes\nWarranty: 2 Years",
+      "handle": "franco-1lt-led-pendant-light-round-in-black-gold",
+      "id": "8b031b34c70dc41b8e48ef498f039c4a",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510220-pendant-light-the-lighting-outlet-3_600x600.jpg?v=1731295610",
+      "intellisuggestData": "eJwEwOEJwkAMBeA3ShcIJM8EzDi9i2krUkT6R6f3e35_3BWeFpqTUuNm4nea5JotI2Z7lw-fDS6vY9uv5f04az0vRJiSCgMJhZPYPkf9AwAA__-tRRWm",
+      "intellisuggestSignature": "3e208d67db04beb97c2a901a57f22ed60f82c24bcd763160ca0868067e7362a1",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White"
+      ],
+      "mfield_filter_dimmable": [
+        "Yes"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "220"
+      ],
+      "mfield_filter_lumens": [
+        "550"
+      ],
+      "mfield_filter_material": [
+        "Aluminium",
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Contemporary",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "6"
+      ],
+      "msrp": "124.99",
+      "name": "Franco LED Pendant Light Round in Black and Gold",
+      "popularity": "3",
+      "price": "94.49",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510220",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46121074720994",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "24",
+      "ss_sku": "5510220",
+      "tags": [
+        "2YW",
+        "Cable Length_2000mm",
+        "Colour Temperature_3000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Cord",
+        "Current Discounts",
+        "Diameter_ø120mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Base_G9",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_220mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Lumens_550lm",
+        "Material_Aluminium",
+        "Material_Glass",
+        "Pendant Light",
+        "Prysinc",
+        "Range_501-600lm",
+        "Size_Small",
+        "to_sync_sept",
+        "Wattage_6w",
+        "Weight_2kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510220-pendant-light-the-lighting-outlet-3_600x600.jpg?v=1731295610",
+      "uid": "8751683305698",
+      "url": "/products/franco-1lt-led-pendant-light-round-in-black-gold",
+      "variant_sku": [
+        "5510220"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Dining Room Lights",
+        "Vencha Lighting",
+        "Lighting",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510233, 5510234, 5510235\nProduct Type: Pendant Light\nColour: Black, Gold\nDiameter: ø16mm\nLength: 1400mm\nHeight: 1200mm\nBulb Type: LED\nWattage: 18w\nColour Temperature: 3000k, 5000k\nLumens: 1400lm\nDimmable: No\nIP Rating: IP20\nWarranty: 2 Years",
+      "handle": "bert-linear-led-pendant-light-1-4m-18w-black-gold",
+      "id": "0fe4842810d6c294c20596d6f3b6f436",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510233-pendant-light-black-3000k-the-lighting-outlet-2_600x600.jpg?v=1731295653",
+      "intellisuggestData": "eJwEwOEJwkAMBeA3Shc4uLwkYMbpXUxbkSLSPzp9v9fvz73DQrzHZMuh0uxBabFGteGzrNKGzQKX97Ht1_J5nrmeF9ylUxUCKjqMxPY98g4AAP__rZYVqw",
+      "intellisuggestSignature": "bd827e8c0e14b3355d2ebac3934d735cd04605b0e0522578cc37297c8250a088",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "5000k Extra Bright White",
+        "3000k Warm White"
+      ],
+      "mfield_filter_height": [
+        "1200"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "1400"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Minimalistic"
+      ],
+      "mfield_filter_wattage": [
+        "18"
+      ],
+      "msrp": "259.99",
+      "name": "Bert Linear LED Pendant Light 1.4m 18w Black, Gold",
+      "popularity": "6",
+      "price": "188.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510233",
+      "ss_available": "0",
+      "ss_has_image": "1",
+      "ss_id": "46121076031714",
+      "ss_instock_pct": "0",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "27",
+      "ss_sku": "5510233",
+      "tags": [
+        "1_Image",
+        "2YW",
+        "Black Pendant",
+        "Brass Pendant",
+        "Colour Temperature_3000k",
+        "Colour Temperature_5000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Cord",
+        "Current Discounts",
+        "Diameter_ø16mm",
+        "Dimmable_No",
+        "discount",
+        "Globe Type_LED",
+        "Height_1200mm",
+        "hide_href_new",
+        "IP Rating_IP20",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Length_1400mm",
+        "Lumens_1400lm",
+        "Pendant Light",
+        "Prysinc",
+        "Range_1301-1400lm",
+        "Room_Dining",
+        "Size_Linear",
+        "to_sync_sept",
+        "Wattage_18w"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510233-pendant-light-black-3000k-the-lighting-outlet-2_600x600.jpg?v=1731295653",
+      "uid": "8751683666146",
+      "url": "/products/bert-linear-led-pendant-light-1-4m-18w-black-gold",
+      "variant_sku": [
+        "5510233",
+        "5510234",
+        "5510235"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Drum Pendant Lights",
+        "Farmhouse Pendant Lights",
+        "Dining Room Lights",
+        "Lighting",
+        "Black Pendant Light",
+        "Kitchen &amp; Island Pendants",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): CELESTE2\nProduct Type: Pendant Light\nColour: Black/Gold\nDiameter: ø350mm\nHeight: 280mm\nCanopy Diameter: ø100mm\nCord Length: 3000mm\nMaterial: Aluminium\nGlobe Required: 1\nGlobe Included: No\nGlobe Type: E27\nWattage (max): 40w\nWarranty: 1 Year",
+      "handle": "celeste-pendant-light-in-black-dome-w-gold-interior-o350mm",
+      "id": "dc2569940d2a299c7d2ff1359bd7373f",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-celeste2-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1731061919",
+      "intellisuggestData": "eJwEwEEKwkAMBdB_lF4gMPmmYNYyO3d6gc7EtBUpIrPR0_ue3x-3AnOdi3dKtJOKnanii6e0uadlWLOe4PTa121M78cRyzFwqdd6u1dCQUOBkVg_e_wDAAD__9CxFoA",
+      "intellisuggestSignature": "00631422d42d67d07ba7426105fadb3216e88787b57973c53dab9219d34427bc",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "4000k Cool White"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_material": [
+        "Aluminium",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern"
+      ],
+      "mfield_filter_wattage": [
+        "40"
+      ],
+      "msrp": "545.02",
+      "name": "Celeste Pendant Light in Black Dome w/ Gold interior (ø350mm)",
+      "popularity": "13",
+      "price": "385.71",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "CELESTE2",
+      "ss_available": "0",
+      "ss_has_image": "1",
+      "ss_id": "46116096573666",
+      "ss_instock_pct": "0",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "29",
+      "ss_sku": "CELESTE2",
+      "tags": [
+        "1 Year Warranty",
+        "1_Image",
+        "1YW",
+        "_indoor_lighting_collection",
+        "Black Pendant",
+        "brands_excluded",
+        "By Material",
+        "CELESTE2__IP__DENY",
+        "Colour Temperature_4000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Cord",
+        "Diameter_ø200mm",
+        "Discount",
+        "Discounted Products",
+        "farmhouse_lighting",
+        "frenzy_exclude",
+        "FromTheBlog-Pendant Light",
+        "Globe Base_E27",
+        "Globe Rec E27 A60",
+        "Globe_Excluded",
+        "has_variants",
+        "Industrial Pendants",
+        "Kitchen Pendant",
+        "Kogan 2",
+        "Kogan2",
+        "KoganHero",
+        "LED_Yes",
+        "Length_280mm",
+        "lightco-ex-elstead",
+        "Material_Aluminium",
+        "Material_Metal",
+        "Modern",
+        "No Increase",
+        "out-of-stock-police",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/CLA_CELESTE.pdf",
+        "Pendant Light",
+        "pendant_discount",
+        "Pictured",
+        "product_addon",
+        "Recglobe",
+        "Remove",
+        "Room_Bedroom",
+        "Room_Dining",
+        "Room_Kitchen",
+        "Room_Living",
+        "RRPBrand",
+        "Sensor_No",
+        "Single_Pendant",
+        "Style_Drum",
+        "Style_Modern",
+        "synced",
+        "v_discount",
+        "Wattage_40w",
+        "Weight_1.5Kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-celeste2-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1731061919",
+      "uid": "8750351188194",
+      "url": "/products/celeste-pendant-light-in-black-dome-w-gold-interior-o350mm",
+      "variant_sku": [
+        "CELESTE2"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Dining Room Lights",
+        "Lighting",
+        "Crystal Lighting",
+        "Black Pendant Light",
+        "Kitchen &amp; Island Pendants",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): GOLPE1, GOLPE2\nProduct Type: Pendant Light\nColour: Black, Champagne Gold\nShade Height: 250mm\nShade Width: 400mm\nCord Length: 3000mm\nCanopy Diameter: 100mm\nMaterial: Stainless Steel\nBulbs Required: 1\nBulb Included: No\nBulb Type: E27\nWattage (max): 60w\nVoltage: 240v\nWarranty: 1 Year",
+      "handle": "golpe-interior-oval-pendant-light-small-1lt-in-black-or-champagne-gold",
+      "id": "87197f5d6bc26e241c172b136d2c1a75",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-golpe1-pendant-light-black-the-lighting-outlet-2_600x600.jpg?v=1731216952",
+      "intellisuggestData": "eJwEwNEJAjEMBuB_lFsg0MQUzADii6ArXBvTVqSI9EWnv-_1-0tPUOOcrAp5OTHpWZhst6CSa2i4Fq0B2d6j9bV9ntP3uXC93x4XBkMyElQE7Tv8CAAA__-hNRXy",
+      "intellisuggestSignature": "768822cb8f4278f2dc62d3ba0c51c63cca578463abd88d9e58b367579f15f105",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_globe_base": [
+        "E27"
+      ],
+      "mfield_filter_height": [
+        "250"
+      ],
+      "mfield_filter_material": [
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Crystal"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_width": [
+        "400"
+      ],
+      "msrp": "275.6",
+      "name": "Golpe interior Oval Pendant Light Small in Black or Champagne Gold",
+      "popularity": "6",
+      "price": "195.04",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "GOLPE1",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46119621525730",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "29",
+      "ss_sku": "GOLPE1",
+      "tags": [
+        "1YW",
+        "_indoor_lighting_collection",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Cord",
+        "discount",
+        "Globe Base_E27",
+        "Globe_Excluded",
+        "Height_250mm",
+        "hide_href_new",
+        "Kitchen Pendant",
+        "Material_Metal",
+        "Material_Stainless Steel",
+        "new_sync_april13",
+        "new_sync_sep",
+        "No Increase",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/CLA_GOLPE1-4.pdf?v=1644198912",
+        "Pendant Light",
+        "Room_Bedroom",
+        "Room_Dining",
+        "Room_Kitchen",
+        "Room_Living",
+        "RRPBrand",
+        "Sensor_No",
+        "Style_Industrial",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Width_400mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-cla-lighting-golpe1-pendant-light-black-the-lighting-outlet-2_600x600.jpg?v=1731216952",
+      "uid": "8751342452962",
+      "url": "/products/golpe-interior-oval-pendant-light-small-1lt-in-black-or-champagne-gold",
+      "variant_sku": [
+        "GOLPE1",
+        "GOLPE2"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510237, 5510238, 5510239\nProduct Type: Pendant Light\nColour: Black, Gold\nDiameter: ø16mm\nLength: 800mm\nHeight: 1200mm\nBulbs Required: 1\nBulb Type: LED\nWattage: 12w\nColour Temperature: 3000k, 5000k\nLumens: 800lm\nIP Rating: IP20\nWarranty: 2 Years",
+      "handle": "centric-drop-led-pendant-light-12w-black-gold",
+      "id": "bae38777fbe22b4c7ffab7d9a16e7a48",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510237-pendant-light-black-3000k-the-lighting-outlet-3_600x600.jpg?v=1734585830",
+      "intellisuggestData": "eJwEwOENgkAMBeA3Cgtc0j5ateNwVwsYQ4zhj07P9_r9uQks1CUGW_ZZmz2oLZao1n2UVVq3UeD03tftnD7PI5fjhLsK5zsUvEFgJNbvnlcAAAD__63-FbI",
+      "intellisuggestSignature": "c545f816b8506eef466effd7a41ef96f3dce3a9f1cbde5fe54ad15a0b41ae8b1",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "5000k Extra Bright White",
+        "3000k Warm White"
+      ],
+      "mfield_filter_height": [
+        "1200"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "800"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Minimalistic"
+      ],
+      "mfield_filter_wattage": [
+        "12"
+      ],
+      "msrp": "249.99",
+      "name": "Centric Drop LED Pendant Light 12w Black, Gold",
+      "popularity": "4",
+      "price": "188.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510237",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46121075376354",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "24",
+      "ss_sku": "5510237",
+      "tags": [
+        "1_Image",
+        "2YW",
+        "Black Pendant",
+        "Brass Pendant",
+        "Colour Temperature_3000k",
+        "Colour Temperature_5000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Cord",
+        "Current Discounts",
+        "Diameter_ø16mm",
+        "discount",
+        "Globe Type_LED",
+        "Height_1200mm",
+        "hide_href_new",
+        "IP Rating_IP20",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Length_800mm",
+        "Lumens_800lm",
+        "Pendant Light",
+        "Prysinc",
+        "Range_701-800lm",
+        "Size_Small",
+        "to_sync_sept",
+        "Wattage_12w"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510237-pendant-light-black-3000k-the-lighting-outlet-3_600x600.jpg?v=1734585830",
+      "uid": "8751683567842",
+      "url": "/products/centric-drop-led-pendant-light-12w-black-gold",
+      "variant_sku": [
+        "5510237",
+        "5510238",
+        "5510239"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By",
+        "25% Off Sale"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510188: GD, 5510188: BK\nProduct Type: Pendant Light\nColour: Gold, Black\nDiameter: ø120mm\nHeight: 120mm\nCanopy Diameter: ø420mm\nSuspension: 2500mm\nBulb Required: 8\nBulb Type: LED\nWattage: 8x 6w\nColour Temperature: 3000k, 5000k\nLumens: 3200lm\nDimmable: No\nWarranty: 2 Years Replacement",
+      "handle": "langdon-led-pendant-light-8lt-48w-gold-black",
+      "id": "11b2ce3917c09d2baf3709f7ebc7a52f",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510188-gd-3k-pendant-light-gold-3000k-the-lighting-outlet_600x600.jpg?v=1731197815",
+      "intellisuggestData": "eJwEwEEKwkAMBdB_lF4gkKQJTvaCC0_RmZi2IkWkGz297_n96cawEOcYStlnIWsqFEsUdR9lldZtFHR67et2Tu_Hkctxwl1YWqPbleY7BHoBw1Sxfvb8BwAA__85ehcb",
+      "intellisuggestSignature": "dbff90bdf91550f0956f05fa21a87c207d49496b0e6f84d4b3391adeaebc6b33",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "5000k Extra Bright White",
+        "3000k Warm White"
+      ],
+      "mfield_filter_height": [
+        "120"
+      ],
+      "mfield_filter_lumens": [
+        "3200"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "48"
+      ],
+      "msrp": "1999.99",
+      "name": "Langdon LED Pendant Light 8Lt 48w Gold, Black",
+      "popularity": "3",
+      "price": "1322.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510188-GD-3K",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46118857375970",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "34",
+      "ss_sku": "5510188-GD-3K",
+      "tags": [
+        "2YW",
+        "5510188-GD-3K__IP__DENY",
+        "Canopy Diameter_ø420mm",
+        "Colour Temperature_3000k",
+        "Colour Temperature_5000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_2500mm",
+        "Current Discounts",
+        "Diameter_ø120mm",
+        "discount",
+        "Globe Type_LED",
+        "Height_120mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "Lumens_3200lm",
+        "Material_Glass",
+        "Material_Metal",
+        "mothers-day-discount",
+        "new_sync_april13",
+        "Pendant Light",
+        "Prysinc",
+        "Range_3101-3200lm",
+        "Size_Medium",
+        "to_sync_sept",
+        "Wattage_48w",
+        "Weight_11kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510188-gd-3k-pendant-light-gold-3000k-the-lighting-outlet_600x600.jpg?v=1731197815",
+      "uid": "8751178383586",
+      "url": "/products/langdon-led-pendant-light-8lt-48w-gold-black",
+      "variant_sku": [
+        "5510188-GD-3K",
+        "5510188-BK-3K",
+        "5510188-BK-5K"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510180: GD, 5510180: BK\nProduct Type: Pendant Light\nColour: Gold, Black\nDiameter: ø120mm\nHeight: 120mm\nCanopy Diameter: ø120mm\nSuspension: 2000mm\nBulb Required: 1\nBulb Type: LED\nWattage: 6w\nColour Temperature: 3000k, 5000k\nLumens: 400lm\nDimmable: No\nWarranty: 2 Years Replacement",
+      "handle": "langdon-led-pendant-light-1lt-6w-gold-black",
+      "id": "aa535730d5af77680852a5a060005fad",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-pendant-light-the-lighting-outlet_ea4279ba-d2c3-4c2e-a2d5-56392491780d_600x600.jpg?v=1731197884",
+      "intellisuggestData": "eJwEwEEKwkAMBdB_lF4gkKQJTPaCC0_RmZi2IkWkGz193-v3141hIc4xlLLPQtZUKJYo6j7KKq3bKOj03tftnD7PI5fjhLuwNKb7jeYHBNrAMFWs3z2vAAAA__84zhcU",
+      "intellisuggestSignature": "02f77dde904d6936e436fd00f612e04c48b74d516caaffe10f6a4b50c50ca79e",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "5000k Extra Bright White",
+        "3000k Warm White"
+      ],
+      "mfield_filter_height": [
+        "120"
+      ],
+      "mfield_filter_lumens": [
+        "400"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "6"
+      ],
+      "msrp": "249.99",
+      "name": "Langdon LED Pendant Light 6w Gold, Black",
+      "popularity": "2",
+      "price": "170.09",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510180-GD-3K",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46118859440354",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "32",
+      "ss_sku": "5510180-GD-3K",
+      "tags": [
+        "5510180-GD-3K__IP__DENY",
+        "Canopy Diameter_ø120mm",
+        "Colour Temperature_3000k",
+        "Colour Temperature_5000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_2000mm",
+        "Current Discounts",
+        "Diameter_ø120mm",
+        "Dimmable_No",
+        "discount",
+        "Globe Type_LED",
+        "Height_120mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "Lumens_400lm",
+        "mothers-day-discount",
+        "new_sync_april13",
+        "Pendant Light",
+        "Prysinc",
+        "Range_301-400lm",
+        "Single_Pendant",
+        "Size_Small",
+        "to_sync_sept",
+        "Wattage_6w",
+        "Weight_2kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-pendant-light-the-lighting-outlet_ea4279ba-d2c3-4c2e-a2d5-56392491780d_600x600.jpg?v=1731197884",
+      "uid": "8751178842338",
+      "url": "/products/langdon-led-pendant-light-1lt-6w-gold-black",
+      "variant_sku": [
+        "5510180-GD-3K",
+        "5510180-BK-3K",
+        "5510180-BK-5K"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510216\nProduct Type: Pendant Light\nColour: Black, Gold\nLength: 330mm\nWidth: 370mm \nHeight: 600mm\nBase Diameter: ø120mm\nGlass Diameter: ø100mm \nSuspension Cable: 2000mm\nWeight: 3.5kg\nMaterial: Aluminium, Glass\nWattage (Max): 4 x 6w\nBulbs Required: 4\nBulb Type: LED\nBulb Base: G9\nBulb Included: Yes\nColour Temperature: 3000k\nLumens: 2000lm\nDimmable: Yes\nWarranty: 2 Years",
+      "handle": "franco-4lt-led-drop-pendant-light-in-black-gold",
+      "id": "875daae5942dc3cd10cee574b35ee1e8",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510216-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1737421603",
+      "intellisuggestData": "eJwEwOEJwkAMBeA3Shc4SJ6JmHF6F9NWpIjcH52-3-v35y6wUJcYbNlv2uxBbbFGte6jrNK6jQKX97Htc_k8z1zPCXcV6h0KBgRGYvseeQUAAP__re0Vsg",
+      "intellisuggestSignature": "ed208bb76e8b85a590c392b1e19f1a6024eeafafe360134b7ea2b45f0ca03d8c",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White"
+      ],
+      "mfield_filter_dimmable": [
+        "Yes"
+      ],
+      "mfield_filter_globe_base": [
+        "G9"
+      ],
+      "mfield_filter_height": [
+        "600"
+      ],
+      "mfield_filter_lumens": [
+        "2000"
+      ],
+      "mfield_filter_material": [
+        "Aluminium",
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Contemporary",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "24"
+      ],
+      "mfield_filter_width": [
+        "370"
+      ],
+      "msrp": "624.99",
+      "name": "Franco 4Lt LED Drop Pendant Light in Black and Gold",
+      "popularity": "1",
+      "price": "472.49",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510216",
+      "ss_available": "0",
+      "ss_has_image": "1",
+      "ss_id": "46121074753762",
+      "ss_instock_pct": "0",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "24",
+      "ss_sku": "5510216",
+      "tags": [
+        "3YW",
+        "Cable Length_2000mm",
+        "Colour Temperature_3000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord_Chain",
+        "Current Discounts",
+        "Diameter_ø100mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Base_G9",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_600mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Length_330mm",
+        "Lumens_2000lm",
+        "Material_Aluminium",
+        "Material_Glass",
+        "Pendant Light",
+        "Prysinc",
+        "Range_1901-2000lm",
+        "Size_Medium",
+        "to_sync_sept",
+        "Wattage_24w",
+        "Weight_3.5kg",
+        "Width_370mm"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-5510216-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1737421603",
+      "uid": "8751683338466",
+      "url": "/products/franco-4lt-led-drop-pendant-light-in-black-gold",
+      "variant_sku": [
+        "5510216"
+      ]
+    },
+    {
+      "brand": "Vencha Lighting",
+      "collection_name": [
+        "Vencha Lighting",
+        "Lighting",
+        "Glass Pendant Light",
+        "Black Pendant Light",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Modern Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "Modern Pendant Lights",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Vencha Lighting\nSku(s): 5510195: GD, 5510195: BK\nProduct Type: Pendant Light\nColour: Gold, Black\nDiameter: ø120mm\nHeight: 120mm\nCanopy Diameter: ø600mm\nSuspension: 3500mm\nWeight: 20kg\nBulb Required: 15\nBulb Type: LED\nWattage: 15x 6w\nColour Temperature: 3000k, 5000k\nLumens: 6000lm\nDimmable: No\nWarranty: 2 Years Replacement",
+      "handle": "langdon-led-pendant-light-15lt-90w-gold-black",
+      "id": "fa7e4626eda71a8f4ed5d0981c37b62c",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-pendant-light-the-lighting-outlet_8495bbc9-b140-4a1a-bee5-96669b2f3373_600x600.jpg?v=1731197812",
+      "intellisuggestData": "eJwEwEEKwkAMBdB_lF4gkGQSMHvBhafoTExbkSIyGz297_n96c6wEOcYStmbkF1UKNYo6j7KKq3bKOjyOrZ9Lu_Hmes54S4s4XS7UrtD0BgMU8X2OfIfAAD__zkGFxM",
+      "intellisuggestSignature": "a963e173c4136f277fb901cc3f08e0c59d5f38f28c65582ac8a72d0992d97ceb",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "5000k Extra Bright White",
+        "3000k Warm White"
+      ],
+      "mfield_filter_height": [
+        "120"
+      ],
+      "mfield_filter_lumens": [
+        "6000"
+      ],
+      "mfield_filter_material": [
+        "Glass",
+        "Metal"
+      ],
+      "mfield_filter_style": [
+        "Modern",
+        "Glass"
+      ],
+      "mfield_filter_wattage": [
+        "90"
+      ],
+      "msrp": "3749.99",
+      "name": "Langdon LED Pendant Light 15Lt 90w Gold, Black",
+      "popularity": "1",
+      "price": "2834.99",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "5510195-GD-3K",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46118857277666",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "24",
+      "ss_sku": "5510195-GD-3K",
+      "tags": [
+        "2YW",
+        "Canopy Diameter_ø600mm",
+        "Colour Temperature_3000k",
+        "Colour Temperature_5000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Cord Length_3500mm",
+        "Current Discounts",
+        "Diameter_ø120mm",
+        "Dimmable_No",
+        "discount",
+        "Globe Type_LED",
+        "Height_120mm",
+        "hide_href_new",
+        "LED Pendant Light",
+        "Lumens_6000lm",
+        "Material_Glass",
+        "Material_Metal",
+        "mothers-day-discount",
+        "new_sync_april13",
+        "Pendant Light",
+        "Prysinc",
+        "Range_5901-6000lm",
+        "Single_Pendant",
+        "to_sync_sept",
+        "Wattage_90w",
+        "Weight_20kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-vencha-lighting-pendant-light-the-lighting-outlet_8495bbc9-b140-4a1a-bee5-96669b2f3373_600x600.jpg?v=1731197812",
+      "uid": "8751178350818",
+      "url": "/products/langdon-led-pendant-light-15lt-90w-gold-black",
+      "variant_sku": [
+        "5510195-GD-3K",
+        "5510195-BK-3K",
+        "5510195-BK-5K"
+      ]
+    },
+    {
+      "brand": "CLA Lighting",
+      "collection_name": [
+        "Lighting",
+        "Black Pendant Light",
+        "CLA Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "White Pendant Light",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: CLA Lighting\nSku(s): KOLONNE1, KOLONNE2, KOLONNE3\nProduct Type: Pendant Light\nColour: Black, White, Gold\nDiameter: ø65mm\nHeight: 270mm\nCanopy Size: ø100mm x 25mm\nSuspension: 3000mm\nMaterial: Iron, Aluminium\nWattage (max): 10w\nGlobe(s) Required: 1\nGlobe Base: GU10\nGlobe Included: No\nInput Voltage: 220-240v AC\nWarranty: 1 Year",
+      "handle": "kolonne-ribbed-cylinder-pendant-light-in-black-white-or-gold",
+      "id": "de14c6eb9e082a6c534dd7b2972ea21e",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Kolonne_Ribbed_Cylinder_Pendant_Light_in_Black_White_or_Gold_KOLONNEX_600x600.jpg?v=1749520313",
+      "intellisuggestData": "eJwEwFEKwjAMBuD_KLtAoMkyMAfwSdnOsDamrUgR6Yue3u_5_UlLUOMtWRHyvDLpRZjstKC8ldBwzVoCsrx6bXN5P4afY-J23I99vzIYKyNBRVA_3f8BAAD__9IrFo4",
+      "intellisuggestSignature": "ee81c5965cc72ff90b1f2b2d2988185de794d846a8af50db1664efabdaec0937",
+      "mfield_filter_colour": [
+        "Black",
+        "White",
+        "Gold"
+      ],
+      "mfield_filter_globe_base": [
+        "GU10"
+      ],
+      "mfield_filter_height": [
+        "270"
+      ],
+      "mfield_filter_material": [
+        "Metal",
+        "Aluminium"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_width": [
+        "65"
+      ],
+      "name": "Kolonne Ribbed Cylinder Pendant Light in Black, White or Gold",
+      "price": "90.15",
+      "product_type_unigram": "light",
+      "sku": "KOLONNE1",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46618963542242",
+      "ss_instock_pct": "67",
+      "ss_is_published": "1",
+      "ss_sku": "KOLONNE1",
+      "tags": [
+        "1YW",
+        "Colour_Black",
+        "Colour_Gold",
+        "Colour_White",
+        "Cord Length_3000mm",
+        "Cord_Cord",
+        "Diameter_ø65mm",
+        "Globe Base_GU10",
+        "Globe_Excluded",
+        "Height_270mm",
+        "Material_Aluminium",
+        "Material_Metal",
+        "PDF-https://cdn.shopify.com/s/files/1/0684/7260/2923/files/KOLONNE1-3_NP_20250106.pdf?v=1740014214",
+        "Pendant Light",
+        "Size_Small"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/Kolonne_Ribbed_Cylinder_Pendant_Light_in_Black_White_or_Gold_KOLONNEX_600x600.jpg?v=1749520313",
+      "uid": "8904031764706",
+      "url": "/products/kolonne-ribbed-cylinder-pendant-light-in-black-white-or-gold",
+      "variant_sku": [
+        "KOLONNE1",
+        "KOLONNE2",
+        "KOLONNE3"
+      ]
+    },
+    {
+      "brand": "Eglo Lighting",
+      "collection_name": [
+        "Architectural Lighting",
+        "Lighting",
+        "Black Pendant Light",
+        "Eglo Lighting",
+        "Pendant Lights",
+        "Indoor &amp; Interior Lighting",
+        "Art Deco Lighting",
+        "12 Volt Led Lights",
+        "Black Friday Cyber Monday",
+        "Driveway Lights",
+        "DIY Lighting",
+        "All Products",
+        "Living Room Lighting",
+        "Shop By"
+      ],
+      "description": "Brand: Eglo Lighting\nSku(s): 390031\nProduct Type: Pendant Light\nColour: Black/Gold\nHeight: 1500mm\nDiameter: ø615mm\nWeight: 5.59kg\nMaterial: Steel\nBulb Included: Yes\nBulb Type: LED\nWattage: 2x 36w\nVoltage: 240v\nColour Temperature: 3000k\nLumens: 8400lm\nDimmable: Yes\nIP Rating: IP20\nWarranty: 5 Years",
+      "handle": "altagracia-led-pendant-light-72w-black-gold",
+      "id": "68d9be2e06e3bbc601c0b0452e3b5c67",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-eglo-lighting-390031-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1731306767",
+      "intellisuggestData": "eJwEwG0KwjAMBuD3KLtAIF8Dc5y1MVtFikj_6On3vH5_vRgesnN0pWwm5A8ViiOK2t7LK715L-j2Hue1ts9z5jEXLJhNIDAFw1VxfkfeAQAA__-XxBV4",
+      "intellisuggestSignature": "d68a408f6afe098d1718ca742965606d0f9e38636a0159395ae7588c9d5c71be",
+      "mfield_filter_colour": [
+        "Black",
+        "Gold"
+      ],
+      "mfield_filter_colour_temperature": [
+        "3000k Warm White"
+      ],
+      "mfield_filter_dimmable": [
+        "Yes"
+      ],
+      "mfield_filter_height": [
+        "1500"
+      ],
+      "mfield_filter_ip_rating": [
+        "IP20"
+      ],
+      "mfield_filter_lumens": [
+        "8400"
+      ],
+      "mfield_filter_style": [
+        "Contemporary",
+        "Architectural",
+        "Art Deco"
+      ],
+      "mfield_filter_voltage": [
+        "240v"
+      ],
+      "mfield_filter_wattage": [
+        "72"
+      ],
+      "msrp": "958.8",
+      "name": "Altagracia LED Pendant Light 72w Black/Gold",
+      "price": "735.08",
+      "product_type_unigram": "light",
+      "rating": "0",
+      "ratingCount": "0",
+      "sku": "390031",
+      "ss_available": "1",
+      "ss_has_image": "1",
+      "ss_id": "46121615524066",
+      "ss_instock_pct": "100",
+      "ss_is_published": "1",
+      "ss_on_sale": "1",
+      "ss_pct_off": "23",
+      "ss_sku": "390031",
+      "tags": [
+        "5YW",
+        "Colour Temperature_3000k",
+        "Colour_Black",
+        "Colour_Gold",
+        "Diameter_ø615mm",
+        "Dimmable_Yes",
+        "discount",
+        "Globe Type_LED",
+        "Globe_Included",
+        "Height_1500mm",
+        "hide_href_new",
+        "IP RATING_20",
+        "IP Rating_IP20",
+        "LED Pendant Light",
+        "LED_Yes",
+        "Lumens_8400lm",
+        "Material_Steel",
+        "No Increase",
+        "PDF-https://cdn.shopify.com/s/files/1/2129/3845/files/Eglo_390031.pdf?v=1686033554",
+        "Pendant Light",
+        "Range_8301-8400lm",
+        "RRPBrand",
+        "Size_Large",
+        "to_sync_sept",
+        "Voltage_240v",
+        "Wattage_72w",
+        "Weight_5.59kg"
+      ],
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0707/3595/4146/files/c-eglo-lighting-390031-pendant-light-the-lighting-outlet-2_600x600.jpg?v=1731306767",
+      "uid": "8751801598178",
+      "url": "/products/altagracia-led-pendant-light-72w-black-gold",
+      "variant_sku": [
+        "390031"
+      ]
+    }
+  ],
+  "facets": [
+    {
+      "field": "product_type",
+      "label": "Product Type",
+      "type": null,
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Bar Light",
+          "label": "Bar Light",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Ceiling Light",
+          "label": "Ceiling Light",
+          "count": 6
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Chandeliers",
+          "label": "Chandeliers",
+          "count": 15
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "CTC Light",
+          "label": "CTC Light",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Downlight",
+          "label": "Downlight",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Floor Lamp",
+          "label": "Floor Lamp",
+          "count": 9
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Indoor Wall Light",
+          "label": "Indoor Wall Light",
+          "count": 52
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Lighting Accessories",
+          "label": "Lighting Accessories",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Outdoor Wall Light",
+          "label": "Outdoor Wall Light",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Pendant Light",
+          "label": "Pendant Light",
+          "count": 278
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Picture Light",
+          "label": "Picture Light",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Pillar Mount Light",
+          "label": "Pillar Mount Light",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Post Light",
+          "label": "Post Light",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Table Lamp",
+          "label": "Table Lamp",
+          "count": 47
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Up/Down Wall Light",
+          "label": "Up/Down Wall Light",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_colour",
+      "label": "Colour",
+      "type": "grid",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 1,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Black",
+          "label": "Black",
+          "count": 2183
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "White",
+          "label": "White",
+          "count": 1800
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Silver",
+          "label": "Silver",
+          "count": 675
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Brass",
+          "label": "Brass",
+          "count": 635
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Chrome",
+          "label": "Chrome",
+          "count": 500
+        },
+        {
+          "active": true,
+          "type": "value",
+          "value": "Gold",
+          "label": "Gold",
+          "count": 422
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Grey",
+          "label": "Grey",
+          "count": 357
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Brown",
+          "label": "Brown",
+          "count": 339
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Bronze",
+          "label": "Bronze",
+          "count": 321
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Green",
+          "label": "Green",
+          "count": 165
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Copper",
+          "label": "Copper",
+          "count": 160
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Wood Tone",
+          "label": "Wood Tone",
+          "count": 111
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Beige",
+          "label": "Beige",
+          "count": 106
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Blue",
+          "label": "Blue",
+          "count": 94
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Orange",
+          "label": "Orange",
+          "count": 79
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Yellow",
+          "label": "Yellow",
+          "count": 78
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Clear/Glass",
+          "label": "Clear/Glass",
+          "count": 23
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Pink",
+          "label": "Pink",
+          "count": 16
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Purple",
+          "label": "Purple",
+          "count": 9
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Ivory",
+          "label": "Ivory",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Terracotta",
+          "label": "Terracotta",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "ss_price",
+      "label": "Price",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 100,
+      "facet_active": 0,
+      "active": [
+        0,
+        7299
+      ],
+      "range": [
+        0,
+        7299
+      ],
+      "values": []
+    },
+    {
+      "field": "vendor",
+      "label": "Brand",
+      "type": null,
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Aromas Del Campo",
+          "label": "Aromas Del Campo",
+          "count": 47
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Cafe Lighting",
+          "label": "Cafe Lighting",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "CLA Lighting",
+          "label": "CLA Lighting",
+          "count": 22
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Eglo Lighting",
+          "label": "Eglo Lighting",
+          "count": 19
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Elstead Lighting",
+          "label": "Elstead Lighting",
+          "count": 98
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Emac & Lawton",
+          "label": "Emac & Lawton",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Eurotech",
+          "label": "Eurotech",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Fiorentino",
+          "label": "Fiorentino",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Havit Lighting",
+          "label": "Havit Lighting",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Ideal Lux",
+          "label": "Ideal Lux",
+          "count": 21
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Lexi Lighting",
+          "label": "Lexi Lighting",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Nordlux Exclusive",
+          "label": "Nordlux Exclusive",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Oriel Lighting",
+          "label": "Oriel Lighting",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Superlux Lighting",
+          "label": "Superlux Lighting",
+          "count": 8
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Telbix Lighting",
+          "label": "Telbix Lighting",
+          "count": 127
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Vencha Lighting",
+          "label": "Vencha Lighting",
+          "count": 44
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Zafferano",
+          "label": "Zafferano",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Zaffero",
+          "label": "Zaffero",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_voltage",
+      "label": "Voltage",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "24v",
+          "label": "24v",
+          "count": 8
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "240v",
+          "label": "240v",
+          "count": 174
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_material",
+      "label": "Material",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "316 Stainless Steel",
+          "label": "316 Stainless Steel",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Acrylic",
+          "label": "Acrylic",
+          "count": 19
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Aluminium",
+          "label": "Aluminium",
+          "count": 48
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Brass",
+          "label": "Brass",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Ceramic",
+          "label": "Ceramic",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Copper",
+          "label": "Copper",
+          "count": 5
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Crystal",
+          "label": "Crystal",
+          "count": 51
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Fabric",
+          "label": "Fabric",
+          "count": 5
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Glass",
+          "label": "Glass",
+          "count": 151
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Marble",
+          "label": "Marble",
+          "count": 13
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Metal",
+          "label": "Metal",
+          "count": 270
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Plastic ABS",
+          "label": "Plastic ABS",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Wood Finish",
+          "label": "Wood Finish",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_cut_out",
+      "label": "Cut Out",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 0.25,
+      "facet_active": 0,
+      "range": [
+        0,
+        0
+      ],
+      "values": []
+    },
+    {
+      "field": "mfield_filter_globe_base",
+      "label": "Globe Base",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "E27",
+          "label": "E27",
+          "count": 151
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "G9",
+          "label": "G9",
+          "count": 74
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "E14",
+          "label": "E14",
+          "count": 72
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Integrated LED",
+          "label": "Integrated LED",
+          "count": 22
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "GU10",
+          "label": "GU10",
+          "count": 9
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "B22",
+          "label": "B22",
+          "count": 8
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "G4",
+          "label": "G4",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "T8/G13",
+          "label": "T8/G13",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_style",
+      "label": "Style",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Adjustable",
+          "label": "Adjustable",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Animal",
+          "label": "Animal",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Architectural",
+          "label": "Architectural",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Art Deco",
+          "label": "Art Deco",
+          "count": 16
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Coastal",
+          "label": "Coastal",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Contemporary",
+          "label": "Contemporary",
+          "count": 90
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Crystal",
+          "label": "Crystal",
+          "count": 48
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Desk",
+          "label": "Desk",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Federation",
+          "label": "Federation",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "French Provincial",
+          "label": "French Provincial",
+          "count": 10
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Glass",
+          "label": "Glass",
+          "count": 93
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Hamptons",
+          "label": "Hamptons",
+          "count": 9
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Industrial",
+          "label": "Industrial",
+          "count": 24
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Kids",
+          "label": "Kids",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Minimalistic",
+          "label": "Minimalistic",
+          "count": 15
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Modern",
+          "label": "Modern",
+          "count": 116
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Scandinavian",
+          "label": "Scandinavian",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Tiffany",
+          "label": "Tiffany",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Touch Lamp",
+          "label": "Touch Lamp",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Traditional",
+          "label": "Traditional",
+          "count": 49
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "USB Lamp",
+          "label": "USB Lamp",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_height",
+      "label": "Height (mm)",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 100,
+      "facet_active": 0,
+      "active": [
+        0,
+        3500
+      ],
+      "range": [
+        0,
+        3500
+      ],
+      "values": []
+    },
+    {
+      "field": "mfield_filter_width",
+      "label": "Width (mm)",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 50,
+      "facet_active": 0,
+      "active": [
+        0,
+        1350
+      ],
+      "range": [
+        0,
+        1350
+      ],
+      "values": []
+    },
+    {
+      "field": "mfield_filter_ip_rating",
+      "label": "IP Rating",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "IP20",
+          "label": "IP20",
+          "count": 221
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "IP43",
+          "label": "IP43",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "IP44",
+          "label": "IP44",
+          "count": 12
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "IP54",
+          "label": "IP54",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_wattage",
+      "label": "Wattage",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 10,
+      "facet_active": 0,
+      "active": [
+        0,
+        450
+      ],
+      "range": [
+        0,
+        450
+      ],
+      "values": []
+    },
+    {
+      "field": "mfield_filter_colour_temperature",
+      "label": "Colour Temperature",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "1500-2600k Extra Warm White",
+          "label": "1500-2600k Extra Warm White",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "2700k Strong Warm White",
+          "label": "2700k Strong Warm White",
+          "count": 35
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "3000k Warm White",
+          "label": "3000k Warm White",
+          "count": 103
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "4000k Cool White",
+          "label": "4000k Cool White",
+          "count": 43
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "5000k Extra Bright White",
+          "label": "5000k Extra Bright White",
+          "count": 12
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "6500k Blue Daylight",
+          "label": "6500k Blue Daylight",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "CCT (Colour Changing)",
+          "label": "CCT (Colour Changing)",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_lumens",
+      "label": "Lumens",
+      "type": "slider",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "step": 1000,
+      "facet_active": 0,
+      "active": [
+        0,
+        45600
+      ],
+      "range": [
+        0,
+        45600
+      ],
+      "values": []
+    },
+    {
+      "field": "mfield_filter_dimmable",
+      "label": "Dimmable",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Yes",
+          "label": "Yes",
+          "count": 72
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_categories",
+      "label": "Categories",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "gid://shopify/Collection/438269083874",
+          "label": "gid://shopify/Collection/438269083874",
+          "count": 51
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "gid://shopify/Collection/438270984418",
+          "label": "gid://shopify/Collection/438270984418",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_cri",
+      "label": "CRI",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": ">80",
+          "label": ">80",
+          "count": 20
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": ">85",
+          "label": ">85",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": ">90",
+          "label": ">90",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_beam_angle",
+      "label": "Beam Angle",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "31-40°",
+          "label": "31-40°",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "71-90°",
+          "label": "71-90°",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "150°+",
+          "label": "150°+",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "field": "mfield_filter_wall_light_type",
+      "label": "Wall Light Type",
+      "type": "list",
+      "multiple": "multiple-union",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Surface-Mounted Wall Light",
+          "label": "Surface-Mounted Wall Light",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Coach Light",
+          "label": "Coach Light",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Up/Down Light",
+          "label": "Up/Down Light",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "field": "",
+      "label": "Search: \"2 light pendant\"",
+      "filterLabel": "Search",
+      "filterValue": "2 light pendant",
+      "removeFilters": [
+        {
+          "field": "mfield_filter_colour",
+          "value": "Gold",
+          "rangeLow": null,
+          "rangeHigh": null
+        }
+      ],
+      "removeRefineQuery": []
+    },
+    {
+      "field": "mfield_filter_colour",
+      "label": "Colour: Gold",
+      "filterLabel": "Colour",
+      "filterValue": "Gold",
+      "removeFilters": [],
+      "removeRefineQuery": []
+    }
+  ],
+  "filterSummary": [
+    {
+      "field": "mfield_filter_colour",
+      "value": "Gold",
+      "label": "Colour: Gold",
+      "filterLabel": "Colour",
+      "filterValue": "Gold"
+    }
+  ],
+  "merchandising": {
+    "redirect": "",
+    "is_elevated": [],
+    "elevated": [],
+    "removed": [],
+    "content": {},
+    "facets": [],
+    "facetsHide": [],
+    "experiments": [],
+    "variants": [],
+    "personalized": false,
+    "triggeredCampaigns": [
+      {
+        "id": "430352",
+        "title": "Global Campaign",
+        "type": "global"
+      }
+    ]
+  },
+  "query": {
+    "matchType": "primary"
+  }
+}
