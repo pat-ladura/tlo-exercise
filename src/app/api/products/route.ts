@@ -12,7 +12,6 @@ export async function GET(req: NextRequest) {
   const fileContents = await fs.readFile(filePath, "utf-8");
   const data = JSON.parse(fileContents);
 
-  // Get search query from URL
   const { searchParams } = new URL(req.url);
   const q = searchParams.get("q")?.toLowerCase() || "";
   const brandsParam = searchParams.get("brands");
@@ -20,7 +19,6 @@ export async function GET(req: NextRequest) {
   const maxParam = Number(searchParams.get("max"));
   const sortParam = searchParams.get("sort") || undefined;
 
-  // Parse brands from search params
   const selectedBrands = brandsParam
     ? brandsParam.split(",").filter(Boolean)
     : [];
@@ -34,7 +32,6 @@ export async function GET(req: NextRequest) {
     sortParam
   );
 
-  // Prevent caching
   return NextResponse.json({
     ...data,
     results: filteredResults,
@@ -42,7 +39,6 @@ export async function GET(req: NextRequest) {
   });
 }
 
-// Search function for product names, brands, price range, and sorting
 function searchProducts(
   products: any[],
   query: string,

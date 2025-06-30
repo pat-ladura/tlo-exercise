@@ -45,7 +45,6 @@ const ProductsLayout: React.FC = () => {
     setLoading(false);
   }
 
-  // Helper to build and push new search params
   function updateSearchParams({
     q,
     brands,
@@ -127,14 +126,11 @@ const ProductsLayout: React.FC = () => {
       max: max ? Number(max) : undefined,
       sort: sortParam,
     });
-    // You can trigger filtering, fetch calls, or update state here
   };
 
   function handleSortChange(e: React.ChangeEvent<HTMLSelectElement>) {
     const value = e.target.value;
     setSort(value);
-    // You can update the URL or trigger sorting here
-    // For example, add &sort=price-asc or &sort=price-desc to the URL
     updateSearchParams({
       q: search,
       brands: brands.filter((b: any) => b.selected).map((b: any) => b.name),

@@ -15,7 +15,6 @@ export default function DualRangeSlider({ onChange }: Props) {
   const [max, setMax] = useState(5000);
   const highlightRef = useRef<HTMLDivElement>(null);
 
-  // Update slider track highlight
   useEffect(() => {
     if (highlightRef.current) {
       const left = ((min - MIN) / (MAX - MIN)) * 100;
@@ -25,7 +24,6 @@ export default function DualRangeSlider({ onChange }: Props) {
     }
   }, [min, max]);
 
-  // Fire callback only when dragging stops
   const handleRelease = () => {
     if (onChange) onChange(min, max);
   };
