@@ -3,6 +3,7 @@ import fetcher from "@/lib/fetcher";
 import { useRouter, useSearchParams } from "next/navigation";
 import React, { useEffect, useState } from "react";
 import DualRangeSlider from "../ui/dual-range-slider";
+import ProductItem from "./item";
 
 const ProductsLayout: React.FC = () => {
   const router = useRouter();
@@ -241,21 +242,7 @@ const ProductsLayout: React.FC = () => {
             </div>
           )}
           {products?.map((product) => (
-            <div
-              key={product.id}
-              className="bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow cursor-pointer"
-            >
-              <img
-                src={product.thumbnailImageUrl}
-                alt={product.name}
-                className="w-full h-48 object-cover rounded-md mb-4"
-              />
-              <h3 className="text-lg font-semibold mb-1">{product.name}</h3>
-              <span className="text-sm mb-2 flex">Brand: {product.brand}</span>
-              <span className="text-xl font-bold text-blue-600">
-                ${product.price}
-              </span>
-            </div>
+            <ProductItem key={product.id} product={product} />
           ))}
         </div>
       </div>
