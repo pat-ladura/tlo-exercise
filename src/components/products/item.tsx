@@ -18,7 +18,14 @@ const ProductItem: React.FC<Props> = ({ product }) => {
       />
       <h3 className="text-lg font-semibold mb-1">{product.name}</h3>
       <span className="text-sm mb-2 flex">Brand: {product.brand}</span>
-      <span className="text-xl font-bold text-blue-600">${product.price}</span>
+      <div className="flex justify-between items-center">
+        <span className="flex text-xl font-bold text-blue-600">
+          ${product.price}
+        </span>
+        <button className="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition-colors cursor-pointer">
+          Add to Cart
+        </button>
+      </div>
     </div>
   );
 };
