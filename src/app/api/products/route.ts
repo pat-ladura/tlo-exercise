@@ -49,9 +49,11 @@ function searchProducts(
 ) {
   let filtered = products;
   if (query) {
-    filtered = filtered.filter((product) =>
-      product.name?.toLowerCase().includes(query)
-    );
+    filtered = filtered.filter((product) => {
+      const nameMatch = product.name?.toLowerCase().includes(query);
+      const skuMatch = product.sku?.toLowerCase().includes(query);
+      return nameMatch || skuMatch;
+    });
   }
   if (brands.length > 0) {
     filtered = filtered.filter((product) => brands.includes(product.brand));
